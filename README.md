@@ -1,14 +1,18 @@
 # Millimetre
 
 ###English###
-Millimetre is a type family base on the metric system
+A serie of fonts constructed on a grid based on the metric system. Printed at a 1 cm size, the strokes of the regular will be 1 mm thick. This grid based design make it quite work on screen too.
 
 ## Specimen
 
-![Millimetre-v1-specimen-001](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/test04.png)
-![Millimetre-v1-specimen-001](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/test11.png)
-![Millimetre-v1-specimen-001](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/test09.png)
-![Millimetre-v1-specimen-001](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/test10.png)
+![specimen1](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/specimen_millimetre_web.png)
+![specimen2](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/specimen_millimetre_web2.png)
+![specimen3](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/specimen_millimetre_web3.png)
+![specimen4](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/specimen_millimetre_web4.png)
+![specimen5](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/specimen_millimetre_web5.png)
+![specimen6](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/specimen_millimetre_web6.png)
+![specimen7](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/specimen_millimetre_web7.png)
+![specimen8](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/specimen_millimetre_web8.png)
 
 ## License
 

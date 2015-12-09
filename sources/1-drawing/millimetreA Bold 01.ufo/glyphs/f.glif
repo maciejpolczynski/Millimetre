@@ -10,18 +10,22 @@
       <point x="30" y="325" type="line"/>
     </contour>
     <contour>
-      <point x="400" y="700" type="line"/>
-      <point x="200" y="700" type="line"/>
-      <point x="110" y="700"/>
-      <point x="50" y="640"/>
-      <point x="50" y="550" type="curve"/>
-      <point x="50" y="0" type="line"/>
-      <point x="200" y="0" type="line"/>
-      <point x="200" y="500" type="line" smooth="yes"/>
-      <point x="200" y="540"/>
-      <point x="220" y="550"/>
-      <point x="250" y="550" type="curve"/>
-      <point x="400" y="550" type="line"/>
+      <point x="400.0" y="700.0" type="line"/>
+      <point x="200.0" y="700.0" type="line"/>
+      <point x="110.0" y="700.0"/>
+      <point x="50.0" y="640.0"/>
+      <point x="50.0" y="550.0" type="curve"/>
+      <point x="50.0" y="390.0" type="line"/>
+      <point x="60" y="305" type="line"/>
+      <point x="60" y="190" type="line"/>
+      <point x="50.0" y="96.0" type="line"/>
+      <point x="50.0" y="0.0" type="line"/>
+      <point x="200.0" y="0.0" type="line"/>
+      <point x="200.0" y="500.0" type="line" smooth="yes"/>
+      <point x="200.0" y="540.0"/>
+      <point x="220.0" y="550.0"/>
+      <point x="250.0" y="550.0" type="curve"/>
+      <point x="400.0" y="550.0" type="line"/>
     </contour>
   </outline>
   <lib>

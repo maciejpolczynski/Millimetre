@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="f_f_l" format="1">
-  <advance width="500"/>
+<glyph name="aring" format="1">
+  <advance width="600"/>
+  <unicode hex="00E5"/>
   <outline>
+    <component base="a"/>
+    <component base="ring" xOffset="100"/>
   </outline>
   <lib>
     <dict>
@@ -22,12 +25,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>f_f_l</string>
+          <string>aring</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>600</integer>
         </dict>
       </dict>
     </dict>

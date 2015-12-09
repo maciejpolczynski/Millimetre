@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="published" format="1">
-  <advance width="500"/>
+<glyph name="Aring" format="1">
+  <advance width="600"/>
+  <unicode hex="00C5"/>
   <outline>
+    <component base="A"/>
+    <component base="ring" xOffset="105" yOffset="135"/>
   </outline>
   <lib>
     <dict>
@@ -22,12 +25,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>published</string>
+          <string>Aring</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>600</integer>
         </dict>
       </dict>
     </dict>

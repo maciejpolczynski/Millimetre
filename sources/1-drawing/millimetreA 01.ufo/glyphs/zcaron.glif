@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quotesinglbase" format="1">
-  <advance width="500"/>
-  <unicode hex="201A"/>
+<glyph name="zcaron" format="1">
+  <advance width="600"/>
+  <unicode hex="017E"/>
   <outline>
+    <component base="z"/>
+    <component base="caron" xOffset="195"/>
   </outline>
   <lib>
     <dict>
@@ -23,12 +25,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>quotesinglbase</string>
+          <string>zcaron</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>600</integer>
         </dict>
       </dict>
     </dict>

@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="fraction" format="1">
-  <advance width="500"/>
-  <unicode hex="2044"/>
+<glyph name="i.TRK" format="1">
+  <advance width="200"/>
   <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="500" type="line"/>
+      <point x="50" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="100.0" y="500.0" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -23,12 +31,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>fraction</string>
+          <string>i.TRK</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>200</integer>
         </dict>
       </dict>
     </dict>

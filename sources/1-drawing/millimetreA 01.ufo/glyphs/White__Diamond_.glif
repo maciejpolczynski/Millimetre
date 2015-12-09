@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="trademark" format="1">
-  <advance width="500"/>
-  <unicode hex="2122"/>
+<glyph name="White_Diamond" format="1">
+  <advance width="1000"/>
   <outline>
+    <contour>
+      <point x="500" y="-105" type="line"/>
+      <point x="145" y="250" type="line"/>
+      <point x="500" y="605" type="line"/>
+      <point x="855" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="-245" type="line"/>
+      <point x="995" y="250" type="line"/>
+      <point x="500" y="745" type="line"/>
+      <point x="5" y="250" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -23,12 +34,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>trademark</string>
+          <string>White_Diamond</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>1000</integer>
         </dict>
       </dict>
     </dict>

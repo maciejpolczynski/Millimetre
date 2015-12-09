@@ -20,13 +20,13 @@
       <point x="430" y="410"/>
       <point x="450" y="400"/>
       <point x="450" y="370" type="curve"/>
-      <point x="450" y="350" type="line"/>
-      <point x="550" y="350" type="line"/>
+      <point x="450" y="325" type="line"/>
+      <point x="550" y="325" type="line"/>
     </contour>
     <contour>
       <point x="550" y="130" type="curve"/>
-      <point x="550" y="150" type="line"/>
-      <point x="450" y="150" type="line"/>
+      <point x="550" y="175" type="line"/>
+      <point x="450" y="175" type="line"/>
       <point x="450" y="130" type="line"/>
       <point x="450" y="100"/>
       <point x="430" y="90"/>

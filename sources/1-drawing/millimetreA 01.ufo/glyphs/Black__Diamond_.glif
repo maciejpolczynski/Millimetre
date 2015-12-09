@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Lslash" format="1">
-  <advance width="500"/>
-  <unicode hex="0141"/>
+<glyph name="Black_Diamond" format="1">
+  <advance width="1000"/>
   <outline>
+    <contour>
+      <point x="500" y="-245" type="line"/>
+      <point x="995" y="250" type="line"/>
+      <point x="500" y="745" type="line"/>
+      <point x="5" y="250" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -23,12 +28,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Lslash</string>
+          <string>Black_Diamond</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>1000</integer>
         </dict>
       </dict>
     </dict>

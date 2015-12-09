@@ -62,10 +62,10 @@
       <point x="640" y="700"/>
     </contour>
     <contour>
-      <point x="450" y="370" type="curve"/>
-      <point x="450" y="340"/>
-      <point x="440" y="330"/>
-      <point x="400" y="330" type="curve"/>
+      <point x="445" y="370" type="curve"/>
+      <point x="445" y="340"/>
+      <point x="435" y="330"/>
+      <point x="395" y="330" type="curve"/>
       <point x="340" y="330" type="line"/>
       <point x="330" y="250" type="line"/>
       <point x="385" y="250" type="line"/>
@@ -78,16 +78,16 @@
       <point x="480" y="280" type="curve"/>
       <point x="480" y="290" type="line"/>
       <point x="520" y="300"/>
-      <point x="550" y="335"/>
-      <point x="550" y="380" type="curve"/>
-      <point x="550" y="460"/>
-      <point x="500" y="500"/>
+      <point x="555" y="335"/>
+      <point x="555" y="380" type="curve"/>
+      <point x="555" y="460"/>
+      <point x="505" y="500"/>
       <point x="400" y="500" type="curve"/>
       <point x="310" y="500" type="line"/>
       <point x="310" y="410" type="line"/>
-      <point x="400" y="410" type="line"/>
-      <point x="440" y="410"/>
-      <point x="450" y="400"/>
+      <point x="395" y="410" type="line"/>
+      <point x="435" y="410"/>
+      <point x="445" y="400"/>
     </contour>
     <contour>
       <point x="300.0" y="650.0" type="move" name="top"/>

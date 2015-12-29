@@ -5,14 +5,14 @@ A serie of fonts constructed on a grid based on the metric system. Printed at a 
 
 ## Specimen
 
-![specimen1](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/specimen_millimetre_web.png)
-![specimen2](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/specimen_millimetre_web2.png)
-![specimen3](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/specimen_millimetre_web3.png)
-![specimen4](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/specimen_millimetre_web4.png)
-![specimen5](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/specimen_millimetre_web5.png)
-![specimen6](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/specimen_millimetre_web6.png)
-![specimen7](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/specimen_millimetre_web7.png)
-![specimen8](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/tests/specimen_millimetre_web8.png)
+![specimen1](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/images/specimen_millimetre_web.png)
+![specimen2](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/images/specimen_millimetre_web2.png)
+![specimen3](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/images/specimen_millimetre_web3.png)
+![specimen4](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/images/specimen_millimetre_web4.png)
+![specimen5](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/images/specimen_millimetre_web5.png)
+![specimen6](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/images/specimen_millimetre_web6.png)
+![specimen7](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/images/specimen_millimetre_web7.png)
+![specimen8](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/images/specimen_millimetre_web8.png)
 
 ## License
 

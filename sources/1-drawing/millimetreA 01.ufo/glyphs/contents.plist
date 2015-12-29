@@ -382,6 +382,8 @@
 	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
+	<key>f.superior</key>
+	<string>f.superior.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
 	<key>five.LT</key>
@@ -440,8 +442,12 @@
 	<string>itilde.glif</string>
 	<key>j</key>
 	<string>j.glif</string>
+	<key>j.superior</key>
+	<string>j.superior.glif</string>
 	<key>k</key>
 	<string>k.glif</string>
+	<key>k.superior</key>
+	<string>k.superior.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
 	<key>l.superior</key>
@@ -552,6 +558,8 @@
 	<string>ring.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
+	<key>s.superior</key>
+	<string>s.superior.glif</string>
 	<key>semicolon</key>
 	<string>semicolon.glif</string>
 	<key>seven</key>
@@ -576,6 +584,8 @@
 	<string>space.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
+	<key>t.superior</key>
+	<string>t.superior.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
 	<key>three</key>
@@ -618,14 +628,22 @@
 	<string>utilde.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
+	<key>v.superior</key>
+	<string>v.superior.glif</string>
 	<key>w</key>
 	<string>w.glif</string>
+	<key>w.superior</key>
+	<string>w.superior.glif</string>
 	<key>white_large_square</key>
 	<string>white_large_square.glif</string>
 	<key>x</key>
 	<string>x.glif</string>
+	<key>x.superior</key>
+	<string>x.superior.glif</string>
 	<key>y</key>
 	<string>y.glif</string>
+	<key>y.superior</key>
+	<string>y.superior.glif</string>
 	<key>yacute</key>
 	<string>yacute.glif</string>
 	<key>ycircumflex</key>
@@ -638,6 +656,8 @@
 	<string>ygrave.glif</string>
 	<key>z</key>
 	<string>z.glif</string>
+	<key>z.superior</key>
+	<string>z.superior.glif</string>
 	<key>zcaron</key>
 	<string>zcaron.glif</string>
 	<key>zero</key>

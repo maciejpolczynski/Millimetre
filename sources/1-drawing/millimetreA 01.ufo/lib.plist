@@ -30,7 +30,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/domitille/ownCloud/Typo/millimetre/sources/1-drawing/millimetreA 01.otf</string>
+	<string>/Users/jjjlllnnn/ownCloud/Typo/millimetre/sources/2-otf/millimetreA 01.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerShow</key>
@@ -217,6 +217,101 @@
 				<string>zcaron</string>
 				<string>eth</string>
 				<string>thorn</string>
+				<string>SC</string>
+				<string>A.small</string>
+				<string>B.small</string>
+				<string>C.small</string>
+				<string>D.small</string>
+				<string>E.small</string>
+				<string>F.small</string>
+				<string>G.small</string>
+				<string>H.small</string>
+				<string>I.small</string>
+				<string>J.small</string>
+				<string>K.small</string>
+				<string>L.small</string>
+				<string>M.small</string>
+				<string>N.small</string>
+				<string>O.small</string>
+				<string>P.small</string>
+				<string>Q.small</string>
+				<string>R.small</string>
+				<string>S.small</string>
+				<string>T.small</string>
+				<string>U.small</string>
+				<string>V.small</string>
+				<string>W.small</string>
+				<string>X.small</string>
+				<string>Y.small</string>
+				<string>Z.small</string>
+				<string>Agrave.small</string>
+				<string>Aacute.small</string>
+				<string>Acircumflex.small</string>
+				<string>Atilde.small</string>
+				<string>Adieresis.small</string>
+				<string>Aring.small</string>
+				<string>AE.small</string>
+				<string>Ccedilla.small</string>
+				<string>Egrave.small</string>
+				<string>Eacute.small</string>
+				<string>Ecircumflex.small</string>
+				<string>Edieresis.small</string>
+				<string>Igrave.small</string>
+				<string>Iacute.small</string>
+				<string>Icircumflex.small</string>
+				<string>Idieresis.small</string>
+				<string>Idotaccent.small</string>
+				<string>Itilde.small</string>
+				<string>IJ.small</string>
+				<string>Lslash.small</string>
+				<string>Ntilde.small</string>
+				<string>Ograve.small</string>
+				<string>Oacute.small</string>
+				<string>Ocircumflex.small</string>
+				<string>Otilde.small</string>
+				<string>Odieresis.small</string>
+				<string>Oslash.small</string>
+				<string>OE.small</string>
+				<string>Scaron.small</string>
+				<string>Ugrave.small</string>
+				<string>Uacute.small</string>
+				<string>Ucircumflex.small</string>
+				<string>Udieresis.small</string>
+				<string>uTilde.small</string>
+				<string>Yacute.small</string>
+				<string>Ycircumflex.small</string>
+				<string>Ydieresis.small</string>
+				<string>Ygrave.small</string>
+				<string>Zcaron.small</string>
+				<string>Eth.small</string>
+				<string>Thorn.small</string>
+				<string>SUP</string>
+				<string>a.superior</string>
+				<string>b.superior</string>
+				<string>c.superior</string>
+				<string>d.superior</string>
+				<string>e.superior</string>
+				<string>f.superior</string>
+				<string>g.superior</string>
+				<string>h.superior</string>
+				<string>i.superior</string>
+				<string>j.superior</string>
+				<string>k.superior</string>
+				<string>l.superior</string>
+				<string>m.superior</string>
+				<string>n.superior</string>
+				<string>o.superior</string>
+				<string>p.superior</string>
+				<string>q.superior</string>
+				<string>r.superior</string>
+				<string>s.superior</string>
+				<string>t.superior</string>
+				<string>u.superior</string>
+				<string>v.superior</string>
+				<string>w.superior</string>
+				<string>x.superior</string>
+				<string>y.superior</string>
+				<string>z.superior</string>
 				<string>AC</string>
 				<string>grave</string>
 				<string>acute</string>
@@ -328,6 +423,16 @@
 				<string>seven.sup</string>
 				<string>eight.sup</string>
 				<string>nine.sup</string>
+				<string>zero.inf</string>
+				<string>one.inf</string>
+				<string>two.inf</string>
+				<string>three.inf</string>
+				<string>four.inf</string>
+				<string>five.inf</string>
+				<string>six.inf</string>
+				<string>seven.inf</string>
+				<string>eight.inf</string>
+				<string>nine.inf</string>
 				<string>fraction</string>
 				<string>onehalf</string>
 				<string>onequarter</string>
@@ -477,6 +582,15 @@
 				<string>Hammer</string>
 				<string>Pistol</string>
 				<string>Black_Scissors</string>
+				<string>twosuperior</string>
+				<string>rayures_ratees</string>
+				<string>dotlessj</string>
+				<string>VTF</string>
+				<string>onesuperior</string>
+				<string>Utilde</string>
+				<string>g.alt2</string>
+				<string>Black_Shade</string>
+				<string>threesuperior</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -629,6 +743,101 @@
 		<string>zcaron</string>
 		<string>eth</string>
 		<string>thorn</string>
+		<string>SC</string>
+		<string>A.small</string>
+		<string>B.small</string>
+		<string>C.small</string>
+		<string>D.small</string>
+		<string>E.small</string>
+		<string>F.small</string>
+		<string>G.small</string>
+		<string>H.small</string>
+		<string>I.small</string>
+		<string>J.small</string>
+		<string>K.small</string>
+		<string>L.small</string>
+		<string>M.small</string>
+		<string>N.small</string>
+		<string>O.small</string>
+		<string>P.small</string>
+		<string>Q.small</string>
+		<string>R.small</string>
+		<string>S.small</string>
+		<string>T.small</string>
+		<string>U.small</string>
+		<string>V.small</string>
+		<string>W.small</string>
+		<string>X.small</string>
+		<string>Y.small</string>
+		<string>Z.small</string>
+		<string>Agrave.small</string>
+		<string>Aacute.small</string>
+		<string>Acircumflex.small</string>
+		<string>Atilde.small</string>
+		<string>Adieresis.small</string>
+		<string>Aring.small</string>
+		<string>AE.small</string>
+		<string>Ccedilla.small</string>
+		<string>Egrave.small</string>
+		<string>Eacute.small</string>
+		<string>Ecircumflex.small</string>
+		<string>Edieresis.small</string>
+		<string>Igrave.small</string>
+		<string>Iacute.small</string>
+		<string>Icircumflex.small</string>
+		<string>Idieresis.small</string>
+		<string>Idotaccent.small</string>
+		<string>Itilde.small</string>
+		<string>IJ.small</string>
+		<string>Lslash.small</string>
+		<string>Ntilde.small</string>
+		<string>Ograve.small</string>
+		<string>Oacute.small</string>
+		<string>Ocircumflex.small</string>
+		<string>Otilde.small</string>
+		<string>Odieresis.small</string>
+		<string>Oslash.small</string>
+		<string>OE.small</string>
+		<string>Scaron.small</string>
+		<string>Ugrave.small</string>
+		<string>Uacute.small</string>
+		<string>Ucircumflex.small</string>
+		<string>Udieresis.small</string>
+		<string>uTilde.small</string>
+		<string>Yacute.small</string>
+		<string>Ycircumflex.small</string>
+		<string>Ydieresis.small</string>
+		<string>Ygrave.small</string>
+		<string>Zcaron.small</string>
+		<string>Eth.small</string>
+		<string>Thorn.small</string>
+		<string>SUP</string>
+		<string>a.superior</string>
+		<string>b.superior</string>
+		<string>c.superior</string>
+		<string>d.superior</string>
+		<string>e.superior</string>
+		<string>f.superior</string>
+		<string>g.superior</string>
+		<string>h.superior</string>
+		<string>i.superior</string>
+		<string>j.superior</string>
+		<string>k.superior</string>
+		<string>l.superior</string>
+		<string>m.superior</string>
+		<string>n.superior</string>
+		<string>o.superior</string>
+		<string>p.superior</string>
+		<string>q.superior</string>
+		<string>r.superior</string>
+		<string>s.superior</string>
+		<string>t.superior</string>
+		<string>u.superior</string>
+		<string>v.superior</string>
+		<string>w.superior</string>
+		<string>x.superior</string>
+		<string>y.superior</string>
+		<string>z.superior</string>
 		<string>AC</string>
 		<string>grave</string>
 		<string>acute</string>
@@ -740,6 +949,16 @@
 		<string>seven.sup</string>
 		<string>eight.sup</string>
 		<string>nine.sup</string>
+		<string>zero.inf</string>
+		<string>one.inf</string>
+		<string>two.inf</string>
+		<string>three.inf</string>
+		<string>four.inf</string>
+		<string>five.inf</string>
+		<string>six.inf</string>
+		<string>seven.inf</string>
+		<string>eight.inf</string>
+		<string>nine.inf</string>
 		<string>fraction</string>
 		<string>onehalf</string>
 		<string>onequarter</string>

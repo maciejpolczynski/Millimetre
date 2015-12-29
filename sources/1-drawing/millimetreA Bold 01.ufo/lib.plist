@@ -477,6 +477,11 @@
 				<string>Hammer</string>
 				<string>Pistol</string>
 				<string>Black_Scissors</string>
+				<string>dotlessj</string>
+				<string>j.alt</string>
+				<string>VTF</string>
+				<string>i.alt</string>
+				<string>Utilde</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>

@@ -489,8 +489,8 @@
 				<string>ae.alt</string>
 				<string>ORN</string>
 				<string>Box_Drawings_Heavy_Vertical_and_Horizontal</string>
-				<string>white_large_square</string>
 				<string>White_Square_with_Rounded_Corners</string>
+				<string>WhiteLargeSquare</string>
 				<string>black_large_square</string>
 				<string>Dotted_Square</string>
 				<string>Squared_Square</string>
@@ -582,15 +582,12 @@
 				<string>Hammer</string>
 				<string>Pistol</string>
 				<string>Black_Scissors</string>
-				<string>twosuperior</string>
 				<string>rayures_ratees</string>
 				<string>dotlessj</string>
 				<string>VTF</string>
-				<string>onesuperior</string>
 				<string>Utilde</string>
-				<string>g.alt2</string>
 				<string>Black_Shade</string>
-				<string>threesuperior</string>
+				<string>Zacute</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1015,8 +1012,8 @@
 		<string>ae.alt</string>
 		<string>ORN</string>
 		<string>Box_Drawings_Heavy_Vertical_and_Horizontal</string>
-		<string>white_large_square</string>
 		<string>White_Square_with_Rounded_Corners</string>
+		<string>WhiteLargeSquare</string>
 		<string>black_large_square</string>
 		<string>Dotted_Square</string>
 		<string>Squared_Square</string>
@@ -1108,15 +1105,12 @@
 		<string>Hammer</string>
 		<string>Pistol</string>
 		<string>Black_Scissors</string>
-		<string>twosuperior</string>
 		<string>rayures_ratees</string>
 		<string>dotlessj</string>
 		<string>VTF</string>
-		<string>onesuperior</string>
 		<string>Utilde</string>
-		<string>g.alt2</string>
 		<string>Black_Shade</string>
-		<string>threesuperior</string>
+		<string>Zacute</string>
 	</array>
 </dict>
 </plist>

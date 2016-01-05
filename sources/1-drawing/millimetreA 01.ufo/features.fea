@@ -1,5 +1,7 @@
+
+
 feature ss01{
-    sub a by a.alt;
+    sub [a agrave aacute acircumflex atilde adieresis aring] by [a.alt agrave.alt aacute.alt acircumflex.alt atilde.alt adieresis.alt aring.alt ];
     }ss01;
     
 feature ss02{
@@ -7,7 +9,54 @@ feature ss02{
         sub g by g.alt;
         } g_alt;
     }ss02;
-    
+
 feature salt{
     lookup g_alt;
     }salt;
+    
+feature smcp{
+    sub @bdc2smcp by @smcp.frombdc;
+    }smcp;
+    
+feature sups {
+# Latin 
+  sub @figs.LP by @figs.sups;
+  # sub @math by @math.sups;
+  sub @sups.fromcap by @sups.to;
+  sub @sups.fromlc by @sups.to;
+  sub i.TRK by i.superior;
+} sups;
+
+feature sinf {
+# Latin 
+  sub @figs.LP by @figs.sinf;
+  #sub @math by @math.sinf;
+} sinf;
+
+
+
+feature tnum { # Tabular figures
+# Latin  
+  sub @figs.LP by @figs.LT ;
+  #sub @monetary.LP by @monetary.OP ;
+  #sub @monetary.OP by @monetary.OT;
+  #sub [zero.slash.LP zero.slash] by [zero.slash.LT zero.slash.OT];
+} tnum;
+
+
+feature pnum { # proportional figures 
+# Latin 
+  sub [@figs.LT @figs.OT] by [@figs.LP @figs.OP] ;
+  #sub @monetary.LT by @monetary.LP ;
+  #sub @monetary.OT by @monetary.OP;
+  #sub [zero.slash.LT zero.slash.OT] by [zero.slash.LP zero.slash];
+} pnum;
+
+
+feature zero { # Slashed Zero
+
+ # Latin
+
+    #sub [zero zero.LP zero.LT zero.OT] by [zero.slash zero.slash.LP zero.slash.LT zero.slash.OT];
+
+} zero;

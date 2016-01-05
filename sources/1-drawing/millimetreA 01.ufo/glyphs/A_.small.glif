@@ -3,10 +3,10 @@
   <advance width="600"/>
   <outline>
     <contour>
-      <point x="500" y="200" type="line"/>
-      <point x="500" y="300" type="line"/>
-      <point x="100" y="300" type="line"/>
-      <point x="100" y="200" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="500" y="100" type="line"/>
+      <point x="100" y="100" type="line"/>
+      <point x="100" y="0" type="line"/>
     </contour>
     <contour>
       <point x="250" y="500" type="line"/>
@@ -34,7 +34,7 @@
       <point x="510" y="400"/>
     </contour>
     <contour>
-      <point x="300.0" y="650.0" type="move" name="top"/>
+      <point x="300" y="450" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

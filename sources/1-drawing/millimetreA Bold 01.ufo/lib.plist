@@ -139,11 +139,12 @@
 				<string>Uacute</string>
 				<string>Ucircumflex</string>
 				<string>Udieresis</string>
-				<string>uTilde</string>
+				<string>Utilde</string>
 				<string>Yacute</string>
 				<string>Ycircumflex</string>
 				<string>Ydieresis</string>
 				<string>Ygrave</string>
+				<string>Zacute</string>
 				<string>Zcaron</string>
 				<string>Eth</string>
 				<string>Thorn</string>
@@ -194,6 +195,7 @@
 				<string>dotlessi</string>
 				<string>i.TRK</string>
 				<string>ij</string>
+				<string>dotlessj</string>
 				<string>lslash</string>
 				<string>ntilde</string>
 				<string>ograve</string>
@@ -277,7 +279,7 @@
 				<string>Uacute.small</string>
 				<string>Ucircumflex.small</string>
 				<string>Udieresis.small</string>
-				<string>uTilde.small</string>
+				<string>Utilde.small</string>
 				<string>Yacute.small</string>
 				<string>Ycircumflex.small</string>
 				<string>Ydieresis.small</string>
@@ -381,8 +383,6 @@
 				<string>Euro</string>
 				<string>dollar</string>
 				<string>cent</string>
-				<string>sterling</string>
-				<string>florin</string>
 				<string>yen</string>
 				<string>zero</string>
 				<string>one</string>
@@ -399,8 +399,6 @@
 				<string>Euro.LT</string>
 				<string>dollar.LT</string>
 				<string>cent.LT</string>
-				<string>sterling.LT</string>
-				<string>florin.LT</string>
 				<string>yen.LT</string>
 				<string>zero.LT</string>
 				<string>one.LT</string>
@@ -454,22 +452,9 @@
 				<string>greater</string>
 				<string>lessequal</string>
 				<string>greaterequal</string>
-				<string>logicalnot</string>
 				<string>currency</string>
 				<string>infinity</string>
-				<string>lozenge</string>
-				<string>Delta</string>
-				<string>Omega</string>
-				<string>partialdiff</string>
-				<string>integral</string>
-				<string>radical</string>
-				<string>summation</string>
-				<string>product</string>
-				<string>pi</string>
-				<string>mu</string>
 				<string>degree</string>
-				<string>litre</string>
-				<string>estimated</string>
 				<string>ampersand</string>
 				<string>LIG</string>
 				<string>fi</string>
@@ -541,6 +526,7 @@
 				<string>Light_Shade</string>
 				<string>Medium_Shade</string>
 				<string>Dark_Shade</string>
+				<string>Black_Shade</string>
 				<string>Leftwards_Arrow</string>
 				<string>Upwards_Arrow</string>
 				<string>Rightwards_Arrow</string>
@@ -552,17 +538,16 @@
 				<string>South_East_Arrow</string>
 				<string>South_West_Arrow</string>
 				<string>Rightwards_Arrow_Over_Leftwards_Arrow</string>
+				<string>Twisted_Rightwards_Arrows</string>
+				<string>Clockwise_Rightwards_and_Leftwards_Open_Circle_Arrows</string>
 				<string>White_Up_Pointing_Backhand_Index</string>
 				<string>White_Down_Pointing_Backhand_Index</string>
 				<string>White_Left_Pointing_Backhand_Index</string>
 				<string>White_Right_Pointing_Backhand_Index</string>
+				<string>Victory_Hand</string>
 				<string>White_Smiling_Face</string>
 				<string>Black_Smiling_Face</string>
 				<string>Skull_and_Crossbones</string>
-				<string>Victory_Hand</string>
-				<string>Performing_Arts</string>
-				<string>Twisted_Rightwards_Arrows</string>
-				<string>Clockwise_Rightwards_and_Leftwards_Open_Circle_Arrows</string>
 				<string>Fire</string>
 				<string>Atom_Symbol</string>
 				<string>High_Voltage_Sign</string>
@@ -575,18 +560,35 @@
 				<string>White_Nib</string>
 				<string>Black_Nib</string>
 				<string>Floppy_Disk</string>
-				<string>Right</string>
+				<string>Right-Pointing_Magnifying_Glass</string>
 				<string>Lock</string>
 				<string>Open_Lock</string>
 				<string>Wrench</string>
 				<string>Hammer</string>
 				<string>Pistol</string>
 				<string>Black_Scissors</string>
-				<string>dotlessj</string>
+				<string>mu</string>
+				<string>summation</string>
 				<string>j.alt</string>
+				<string>estimated</string>
+				<string>litre</string>
+				<string>product</string>
+				<string>logicalnot</string>
+				<string>sterling.LT</string>
+				<string>radical</string>
+				<string>Delta</string>
 				<string>VTF</string>
-				<string>i.alt</string>
-				<string>Utilde</string>
+				<string>florin</string>
+				<string>Omega</string>
+				<string>lozenge</string>
+				<string>Right</string>
+				<string>pi</string>
+				<string>florin.LT</string>
+				<string>Performing_Arts</string>
+				<string>uTilde</string>
+				<string>sterling</string>
+				<string>partialdiff</string>
+				<string>integral</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -661,11 +663,12 @@
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
 		<string>Udieresis</string>
-		<string>uTilde</string>
+		<string>Utilde</string>
 		<string>Yacute</string>
 		<string>Ycircumflex</string>
 		<string>Ydieresis</string>
 		<string>Ygrave</string>
+		<string>Zacute</string>
 		<string>Zcaron</string>
 		<string>Eth</string>
 		<string>Thorn</string>
@@ -716,6 +719,7 @@
 		<string>dotlessi</string>
 		<string>i.TRK</string>
 		<string>ij</string>
+		<string>dotlessj</string>
 		<string>lslash</string>
 		<string>ntilde</string>
 		<string>ograve</string>
@@ -799,7 +803,7 @@
 		<string>Uacute.small</string>
 		<string>Ucircumflex.small</string>
 		<string>Udieresis.small</string>
-		<string>uTilde.small</string>
+		<string>Utilde.small</string>
 		<string>Yacute.small</string>
 		<string>Ycircumflex.small</string>
 		<string>Ydieresis.small</string>
@@ -903,8 +907,6 @@
 		<string>Euro</string>
 		<string>dollar</string>
 		<string>cent</string>
-		<string>sterling</string>
-		<string>florin</string>
 		<string>yen</string>
 		<string>zero</string>
 		<string>one</string>
@@ -921,8 +923,6 @@
 		<string>Euro.LT</string>
 		<string>dollar.LT</string>
 		<string>cent.LT</string>
-		<string>sterling.LT</string>
-		<string>florin.LT</string>
 		<string>yen.LT</string>
 		<string>zero.LT</string>
 		<string>one.LT</string>
@@ -976,22 +976,9 @@
 		<string>greater</string>
 		<string>lessequal</string>
 		<string>greaterequal</string>
-		<string>logicalnot</string>
 		<string>currency</string>
 		<string>infinity</string>
-		<string>lozenge</string>
-		<string>Delta</string>
-		<string>Omega</string>
-		<string>partialdiff</string>
-		<string>integral</string>
-		<string>radical</string>
-		<string>summation</string>
-		<string>product</string>
-		<string>pi</string>
-		<string>mu</string>
 		<string>degree</string>
-		<string>litre</string>
-		<string>estimated</string>
 		<string>ampersand</string>
 		<string>LIG</string>
 		<string>fi</string>
@@ -1063,6 +1050,7 @@
 		<string>Light_Shade</string>
 		<string>Medium_Shade</string>
 		<string>Dark_Shade</string>
+		<string>Black_Shade</string>
 		<string>Leftwards_Arrow</string>
 		<string>Upwards_Arrow</string>
 		<string>Rightwards_Arrow</string>
@@ -1074,17 +1062,16 @@
 		<string>South_East_Arrow</string>
 		<string>South_West_Arrow</string>
 		<string>Rightwards_Arrow_Over_Leftwards_Arrow</string>
+		<string>Twisted_Rightwards_Arrows</string>
+		<string>Clockwise_Rightwards_and_Leftwards_Open_Circle_Arrows</string>
 		<string>White_Up_Pointing_Backhand_Index</string>
 		<string>White_Down_Pointing_Backhand_Index</string>
 		<string>White_Left_Pointing_Backhand_Index</string>
 		<string>White_Right_Pointing_Backhand_Index</string>
+		<string>Victory_Hand</string>
 		<string>White_Smiling_Face</string>
 		<string>Black_Smiling_Face</string>
 		<string>Skull_and_Crossbones</string>
-		<string>Victory_Hand</string>
-		<string>Performing_Arts</string>
-		<string>Twisted_Rightwards_Arrows</string>
-		<string>Clockwise_Rightwards_and_Leftwards_Open_Circle_Arrows</string>
 		<string>Fire</string>
 		<string>Atom_Symbol</string>
 		<string>High_Voltage_Sign</string>
@@ -1097,18 +1084,35 @@
 		<string>White_Nib</string>
 		<string>Black_Nib</string>
 		<string>Floppy_Disk</string>
-		<string>Right</string>
+		<string>Right-Pointing_Magnifying_Glass</string>
 		<string>Lock</string>
 		<string>Open_Lock</string>
 		<string>Wrench</string>
 		<string>Hammer</string>
 		<string>Pistol</string>
 		<string>Black_Scissors</string>
-		<string>dotlessj</string>
+		<string>mu</string>
+		<string>summation</string>
 		<string>j.alt</string>
+		<string>estimated</string>
+		<string>litre</string>
+		<string>product</string>
+		<string>logicalnot</string>
+		<string>sterling.LT</string>
+		<string>radical</string>
+		<string>Delta</string>
 		<string>VTF</string>
-		<string>i.alt</string>
-		<string>Utilde</string>
+		<string>florin</string>
+		<string>Omega</string>
+		<string>lozenge</string>
+		<string>Right</string>
+		<string>pi</string>
+		<string>florin.LT</string>
+		<string>Performing_Arts</string>
+		<string>uTilde</string>
+		<string>sterling</string>
+		<string>partialdiff</string>
+		<string>integral</string>
 	</array>
 </dict>
 </plist>

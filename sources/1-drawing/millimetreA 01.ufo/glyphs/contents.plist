@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>.notdef</key>
+	<string>_notdef.glif</string>
 	<key>A</key>
 	<string>A_.glif</string>
 	<key>A.small</key>
@@ -38,20 +40,6 @@
 	<string>B_.glif</string>
 	<key>B.small</key>
 	<string>B_.small.glif</string>
-	<key>Black_Circle</key>
-	<string>Black__Circle_.glif</string>
-	<key>Black_Diamond</key>
-	<string>Black__Diamond_.glif</string>
-	<key>Black_Shade</key>
-	<string>Black__Shade_.glif</string>
-	<key>Black_Small_Square</key>
-	<string>Black__Small__Square_.glif</string>
-	<key>Black_Smiling_Face</key>
-	<string>Black__Smiling__Face_.glif</string>
-	<key>Box_Drawings_Heavy_Vertical_and_Horizontal</key>
-	<string>Box__Drawings__Heavy__Vertical__and_Horizontal_.glif</string>
-	<key>Bullseye</key>
-	<string>Bullseye_.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
 	<key>C.small</key>
@@ -60,34 +48,10 @@
 	<string>Ccedilla_.glif</string>
 	<key>Ccedilla.small</key>
 	<string>Ccedilla_.small.glif</string>
-	<key>Circle_with_All_But_Upper_Left_Quadrant_Black</key>
-	<string>Circle__with_All__But__Upper__Left__Quadrant__Black_.glif</string>
-	<key>Circle_with_Left_Half_Black</key>
-	<string>Circle__with_Left__Half__Black_.glif</string>
-	<key>Circle_with_Lower_Half_Black</key>
-	<string>Circle__with_Lower__Half__Black_.glif</string>
-	<key>Circle_with_Right_Half_Black</key>
-	<string>Circle__with_Right__Half__Black_.glif</string>
-	<key>Circle_with_Upper_Half_Black</key>
-	<string>Circle__with_Upper__Half__Black_.glif</string>
-	<key>Circle_with_Upper_Right_Quadrant_Black</key>
-	<string>Circle__with_Upper__Right__Quadrant__Black_.glif</string>
-	<key>Circle_with_Vertical_Fill</key>
-	<string>Circle__with_Vertical__Fill_.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
 	<key>D.small</key>
 	<string>D_.small.glif</string>
-	<key>Dark_Shade</key>
-	<string>Dark__Shade_.glif</string>
-	<key>Diagonal_Crosshatch_Fill</key>
-	<string>Diagonal__Crosshatch__Fill_.glif</string>
-	<key>Dotted_Circle</key>
-	<string>Dotted__Circle_.glif</string>
-	<key>Dotted_Square</key>
-	<string>Dotted__Square_.glif</string>
-	<key>Downwards_Arrow</key>
-	<string>Downwards__Arrow_.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
 	<key>E.small</key>
@@ -110,6 +74,8 @@
 	<string>Egrave_.small.glif</string>
 	<key>Eth</key>
 	<string>Eth_.glif</string>
+	<key>Eth.small</key>
+	<string>Eth_.small.glif</string>
 	<key>Euro</key>
 	<string>Euro_.glif</string>
 	<key>Euro.LT</key>
@@ -118,8 +84,6 @@
 	<string>F_.glif</string>
 	<key>F.small</key>
 	<string>F_.small.glif</string>
-	<key>Fisheye</key>
-	<string>Fisheye_.glif</string>
 	<key>G</key>
 	<string>G_.glif</string>
 	<key>G.small</key>
@@ -128,12 +92,6 @@
 	<string>H_.glif</string>
 	<key>H.small</key>
 	<string>H_.small.glif</string>
-	<key>Hashed</key>
-	<string>Hashed_.glif</string>
-	<key>High_Voltage_Sign</key>
-	<string>High__Voltage__Sign_.glif</string>
-	<key>Horizontal_Fill</key>
-	<string>Horizontal__Fill_.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
 	<key>I.small</key>
@@ -154,6 +112,8 @@
 	<string>Idieresis_.glif</string>
 	<key>Idieresis.small</key>
 	<string>Idieresis_.small.glif</string>
+	<key>Idotaccent</key>
+	<string>Idotaccent_.glif</string>
 	<key>Idotaccent.small</key>
 	<string>Idotaccent_.small.glif</string>
 	<key>Igrave</key>
@@ -176,28 +136,22 @@
 	<string>L_.glif</string>
 	<key>L.small</key>
 	<string>L_.small.glif</string>
-	<key>Left_Right_Arrow</key>
-	<string>Left__Right__Arrow_.glif</string>
-	<key>Leftwards_Arrow</key>
-	<string>Leftwards__Arrow_.glif</string>
-	<key>Light_Shade</key>
-	<string>Light__Shade_.glif</string>
+	<key>Lslash</key>
+	<string>Lslash_.glif</string>
+	<key>Lslash.small</key>
+	<string>Lslash_.small.glif</string>
 	<key>M</key>
 	<string>M_.glif</string>
 	<key>M.small</key>
 	<string>M_.small.glif</string>
-	<key>Medium_Shade</key>
-	<string>Medium__Shade_.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
 	<key>N.small</key>
 	<string>N_.small.glif</string>
-	<key>North_East_Arrow</key>
-	<string>North__East__Arrow_.glif</string>
-	<key>North_West_Arrow</key>
-	<string>North__West__Arrow_.glif</string>
 	<key>Ntilde</key>
 	<string>Ntilde_.glif</string>
+	<key>Ntilde.small</key>
+	<string>Ntilde_.small.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
 	<key>O.small</key>
@@ -242,44 +196,22 @@
 	<string>R_.glif</string>
 	<key>R.small</key>
 	<string>R_.small.glif</string>
-	<key>Rightwards_Arrow</key>
-	<string>Rightwards__Arrow_.glif</string>
-	<key>Rightwards_Arrow_Over_Leftwards_Arrow</key>
-	<string>Rightwards__Arrow__Over__Leftwards__Arrow_.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
 	<key>S.small</key>
 	<string>S_.small.glif</string>
-	<key>Skull_and_Crossbones</key>
-	<string>Skull__and_Crossbones_.glif</string>
-	<key>South_East_Arrow</key>
-	<string>South__East__Arrow_.glif</string>
-	<key>South_West_Arrow</key>
-	<string>South__West__Arrow_.glif</string>
-	<key>Square_with_Horizontal_Fill</key>
-	<string>Square__with_Horizontal__Fill_.glif</string>
-	<key>Square_with_Left_Half_Black</key>
-	<string>Square__with_Left__Half__Black_.glif</string>
-	<key>Square_with_Lower_Right_Diagonal_Half_Black</key>
-	<string>Square__with_Lower__Right__Diagonal__Half__Black_.glif</string>
-	<key>Square_with_Right_Half_Black</key>
-	<string>Square__with_Right__Half__Black_.glif</string>
-	<key>Square_with_Upper_Left_Diagonal_Half_Black</key>
-	<string>Square__with_Upper__Left__Diagonal__Half__Black_.glif</string>
-	<key>Square_with_Upper_Left_To_Lower_Right_Fill</key>
-	<string>Square__with_Upper__Left__To__Lower__Right__Fill_.glif</string>
-	<key>Square_with_Upper_Right_To_Lower_Left_Fill</key>
-	<string>Square__with_Upper__Right__To__Lower__Left__Fill_.glif</string>
-	<key>Square_with_Vertical_Fill</key>
-	<string>Square__with_Vertical__Fill_.glif</string>
-	<key>Squared_Square</key>
-	<string>Squared__Square_.glif</string>
+	<key>Scaron</key>
+	<string>Scaron_.glif</string>
+	<key>Scaron.small</key>
+	<string>Scaron_.small.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
 	<key>T.small</key>
 	<string>T_.small.glif</string>
 	<key>Thorn</key>
 	<string>Thorn_.glif</string>
+	<key>Thorn.small</key>
+	<string>Thorn_.small.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>U.small</key>
@@ -300,54 +232,20 @@
 	<string>Ugrave_.glif</string>
 	<key>Ugrave.small</key>
 	<string>Ugrave_.small.glif</string>
-	<key>Up_Down_Arrow</key>
-	<string>Up__Down__Arrow_.glif</string>
-	<key>Upper_Left_To_Lower_Right_Fill</key>
-	<string>Upper__Left__To__Lower__Right__Fill_.glif</string>
-	<key>Upper_Right_To_Lower_Left_Fill</key>
-	<string>Upper__Right__To__Lower__Left__Fill_.glif</string>
-	<key>Upwards_Arrow</key>
-	<string>Upwards__Arrow_.glif</string>
 	<key>Utilde</key>
 	<string>Utilde_.glif</string>
+	<key>Utilde.small</key>
+	<string>Utilde_.small.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
 	<key>V.small</key>
 	<string>V_.small.glif</string>
 	<key>VTF</key>
 	<string>VTF_.glif</string>
-	<key>Vertical_Fill</key>
-	<string>Vertical__Fill_.glif</string>
 	<key>W</key>
 	<string>W_.glif</string>
 	<key>W.small</key>
 	<string>W_.small.glif</string>
-	<key>WhiteLargeSquare</key>
-	<string>WhiteLargeSquare_.glif</string>
-	<key>White_Circle</key>
-	<string>White__Circle_.glif</string>
-	<key>White_Diamond</key>
-	<string>White__Diamond_.glif</string>
-	<key>White_Diamond_Containing_Black_Small_Diamond</key>
-	<string>White__Diamond__Containing__Black__Small__Diamond_.glif</string>
-	<key>White_Small_Square</key>
-	<string>White__Small__Square_.glif</string>
-	<key>White_Smiling_Face</key>
-	<string>White__Smiling__Face_.glif</string>
-	<key>White_Square_Containing_Black_Small_Square</key>
-	<string>White__Square__Containing__Black__Small__Square_.glif</string>
-	<key>White_Square_with_Lower_Left_Quadrant</key>
-	<string>White__Square__with_Lower__Left__Quadrant_.glif</string>
-	<key>White_Square_with_Lower_Right_Quadrant</key>
-	<string>White__Square__with_Lower__Right__Quadrant_.glif</string>
-	<key>White_Square_with_Rounded_Corners</key>
-	<string>White__Square__with_Rounded__Corners_.glif</string>
-	<key>White_Square_with_Upper_Left_Quadrant</key>
-	<string>White__Square__with_Upper__Left__Quadrant_.glif</string>
-	<key>White_Square_with_Upper_Right_Quadrant</key>
-	<string>White__Square__with_Upper__Right__Quadrant_.glif</string>
-	<key>White_Square_with_Vertical_Bisecting_Line</key>
-	<string>White__Square__with_Vertical__Bisecting__Line_.glif</string>
 	<key>X</key>
 	<string>X_.glif</string>
 	<key>X.small</key>
@@ -432,8 +330,26 @@
 	<string>backslash.glif</string>
 	<key>bar</key>
 	<string>bar.glif</string>
-	<key>black_large_square</key>
-	<string>black_large_square.glif</string>
+	<key>blackcircle</key>
+	<string>blackcircle.glif</string>
+	<key>blackdiamond</key>
+	<string>blackdiamond.glif</string>
+	<key>blacklargesquare</key>
+	<string>blacklargesquare.glif</string>
+	<key>blacklowerlefttriangle</key>
+	<string>blacklowerlefttriangle.glif</string>
+	<key>blacklowerrighttriangle</key>
+	<string>blacklowerrighttriangle.glif</string>
+	<key>blackshade</key>
+	<string>blackshade.glif</string>
+	<key>blacksmallsquare</key>
+	<string>blacksmallsquare.glif</string>
+	<key>blacksmilingface</key>
+	<string>blacksmilingface.glif</string>
+	<key>blackupperlefttriangle</key>
+	<string>blackupperlefttriangle.glif</string>
+	<key>blackupperrighttriangle</key>
+	<string>blackupperrighttriangle.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
 	<key>braceright</key>
@@ -446,6 +362,8 @@
 	<string>brokenbar.glif</string>
 	<key>bullet</key>
 	<string>bullet.glif</string>
+	<key>bullseye</key>
+	<string>bullseye.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
 	<key>c.superior</key>
@@ -460,8 +378,24 @@
 	<string>cent.glif</string>
 	<key>cent.LT</key>
 	<string>cent.LT_.glif</string>
+	<key>circleupleftquadrantwhite</key>
+	<string>circleupleftquadrantwhite.glif</string>
+	<key>circleuprightquadrantblack</key>
+	<string>circleuprightquadrantblack.glif</string>
+	<key>circlewithlefthalfblack</key>
+	<string>circlewithlefthalfblack.glif</string>
+	<key>circlewithlowerhalfblack</key>
+	<string>circlewithlowerhalfblack.glif</string>
+	<key>circlewithrighthalfblack</key>
+	<string>circlewithrighthalfblack.glif</string>
+	<key>circlewithupperhalfblack</key>
+	<string>circlewithupperhalfblack.glif</string>
+	<key>circlewithverticalfill</key>
+	<string>circlewithverticalfill.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
+	<key>clockwisearrows</key>
+	<string>clockwisearrows.glif</string>
 	<key>colon</key>
 	<string>colon.glif</string>
 	<key>comma</key>
@@ -472,18 +406,40 @@
 	<string>d.glif</string>
 	<key>d.superior</key>
 	<string>d.superior.glif</string>
+	<key>dagger</key>
+	<string>dagger.glif</string>
+	<key>daggerdbl</key>
+	<string>daggerdbl.glif</string>
+	<key>darkshade</key>
+	<string>darkshade.glif</string>
 	<key>degree</key>
 	<string>degree.glif</string>
+	<key>diagonalcrosshatchfill</key>
+	<string>diagonalcrosshatchfill.glif</string>
+	<key>diamondinsquare</key>
+	<string>diamondinsquare.glif</string>
+	<key>diamondwithblacksmalldiamond</key>
+	<string>diamondwithblacksmalldiamond.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
+	<key>divide</key>
+	<string>divide.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
 	<key>dollar.LT</key>
 	<string>dollar.LT_.glif</string>
+	<key>dotaccent</key>
+	<string>dotaccent.glif</string>
 	<key>dotlessi</key>
 	<string>dotlessi.glif</string>
 	<key>dotlessj</key>
 	<string>dotlessj.glif</string>
+	<key>dottedcircle</key>
+	<string>dottedcircle.glif</string>
+	<key>dottedsquare</key>
+	<string>dottedsquare.glif</string>
+	<key>downwardsarrow</key>
+	<string>downwardsarrow.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>e.superior</key>
@@ -512,6 +468,8 @@
 	<string>endash.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
+	<key>eth</key>
+	<string>eth.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
 	<key>exclamdown</key>
@@ -520,6 +478,8 @@
 	<string>f.glif</string>
 	<key>f.superior</key>
 	<string>f.superior.glif</string>
+	<key>fisheye</key>
+	<string>fisheye.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
 	<key>five.LT</key>
@@ -554,8 +514,14 @@
 	<string>h.glif</string>
 	<key>h.superior</key>
 	<string>h.superior.glif</string>
-	<key>hashed_large_square</key>
-	<string>hashed_large_square.glif</string>
+	<key>hashed</key>
+	<string>hashed.glif</string>
+	<key>hashedlargesquare</key>
+	<string>hashedlargesquare.glif</string>
+	<key>heavyverticalandhorizontal</key>
+	<string>heavyverticalandhorizontal.glif</string>
+	<key>horizontalfill</key>
+	<string>horizontalfill.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
 	<key>i</key>
@@ -572,6 +538,8 @@
 	<string>idieresis.glif</string>
 	<key>igrave</key>
 	<string>igrave.glif</string>
+	<key>ij</key>
+	<string>ij.glif</string>
 	<key>itilde</key>
 	<string>itilde.glif</string>
 	<key>j</key>
@@ -586,14 +554,26 @@
 	<string>l.glif</string>
 	<key>l.superior</key>
 	<string>l.superior.glif</string>
+	<key>leftrightarrow</key>
+	<string>leftrightarrow.glif</string>
+	<key>leftwardsarrow</key>
+	<string>leftwardsarrow.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
+	<key>lightshade</key>
+	<string>lightshade.glif</string>
+	<key>lslash</key>
+	<string>lslash.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>m.superior</key>
 	<string>m.superior.glif</string>
+	<key>mediumshade</key>
+	<string>mediumshade.glif</string>
 	<key>minus</key>
 	<string>minus.glif</string>
+	<key>multiply</key>
+	<string>multiply.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
 	<key>n.superior</key>
@@ -606,6 +586,12 @@
 	<string>nine.inf.glif</string>
 	<key>nine.sup</key>
 	<string>nine.sup.glif</string>
+	<key>northeastarrow</key>
+	<string>northeastarrow.glif</string>
+	<key>northwestarrow</key>
+	<string>northwestarrow.glif</string>
+	<key>notequal</key>
+	<string>notequal.glif</string>
 	<key>ntilde</key>
 	<string>ntilde.glif</string>
 	<key>numbersign</key>
@@ -650,6 +636,8 @@
 	<string>p.glif</string>
 	<key>p.superior</key>
 	<string>p.superior.glif</string>
+	<key>paragraph</key>
+	<string>paragraph.glif</string>
 	<key>parenleft</key>
 	<string>parenleft.glif</string>
 	<key>parenright</key>
@@ -694,16 +682,22 @@
 	<string>r.glif</string>
 	<key>r.superior</key>
 	<string>r.superior.glif</string>
-	<key>rayures_ratees</key>
-	<string>rayures_ratees.glif</string>
 	<key>registered</key>
 	<string>registered.glif</string>
+	<key>rightarrowoverleftarrow</key>
+	<string>rightarrowoverleftarrow.glif</string>
+	<key>rightwardsarrow</key>
+	<string>rightwardsarrow.glif</string>
 	<key>ring</key>
 	<string>ring.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>s.superior</key>
 	<string>s.superior.glif</string>
+	<key>scaron</key>
+	<string>scaron.glif</string>
+	<key>section</key>
+	<string>section.glif</string>
 	<key>semicolon</key>
 	<string>semicolon.glif</string>
 	<key>seven</key>
@@ -722,10 +716,48 @@
 	<string>six.inf.glif</string>
 	<key>six.sup</key>
 	<string>six.sup.glif</string>
+	<key>skullandcrossbones</key>
+	<string>skullandcrossbones.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
+	<key>southeastarrow</key>
+	<string>southeastarrow.glif</string>
+	<key>southwestarrow</key>
+	<string>southwestarrow.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
+	<key>squarediagonalcrosshatchfill</key>
+	<string>squarediagonalcrosshatchfill.glif</string>
+	<key>squaredsquare</key>
+	<string>squaredsquare.glif</string>
+	<key>squarelowrightdiagonalhalfblack</key>
+	<string>squarelowrightdiagonalhalfblack.glif</string>
+	<key>squareupleftdiagonalhalfblack</key>
+	<string>squareupleftdiagonalhalfblack.glif</string>
+	<key>squareuplefttolowrightfill</key>
+	<string>squareuplefttolowrightfill.glif</string>
+	<key>squareuprighttolowleftfill</key>
+	<string>squareuprighttolowleftfill.glif</string>
+	<key>squareverticalbisectingline</key>
+	<string>squareverticalbisectingline.glif</string>
+	<key>squarewithblacksmallsquare</key>
+	<string>squarewithblacksmallsquare.glif</string>
+	<key>squarewithhorizontalfill</key>
+	<string>squarewithhorizontalfill.glif</string>
+	<key>squarewithlefthalfblack</key>
+	<string>squarewithlefthalfblack.glif</string>
+	<key>squarewithlowerleftquadrant</key>
+	<string>squarewithlowerleftquadrant.glif</string>
+	<key>squarewithlowerrightquadrant</key>
+	<string>squarewithlowerrightquadrant.glif</string>
+	<key>squarewithrighthalfblack</key>
+	<string>squarewithrighthalfblack.glif</string>
+	<key>squarewithupperleftquadrant</key>
+	<string>squarewithupperleftquadrant.glif</string>
+	<key>squarewithupperrightquadrant</key>
+	<string>squarewithupperrightquadrant.glif</string>
+	<key>squarewithverticalfill</key>
+	<string>squarewithverticalfill.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
 	<key>t.superior</key>
@@ -746,6 +778,8 @@
 	<string>tilde.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
+	<key>twistedrightwardsarrows</key>
+	<string>twistedrightwardsarrows.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>two.LT</key>
@@ -758,8 +792,6 @@
 	<string>u.glif</string>
 	<key>u.superior</key>
 	<string>u.superior.glif</string>
-	<key>uTilde.small</key>
-	<string>uTilde_.small.glif</string>
 	<key>uacute</key>
 	<string>uacute.glif</string>
 	<key>ucircumflex</key>
@@ -770,16 +802,48 @@
 	<string>ugrave.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
+	<key>updownarrow</key>
+	<string>updownarrow.glif</string>
+	<key>upperlefttolowrightfill</key>
+	<string>upperlefttolowrightfill.glif</string>
+	<key>uprighttolowerleftfill</key>
+	<string>uprighttolowerleftfill.glif</string>
+	<key>upwardsarrow</key>
+	<string>upwardsarrow.glif</string>
 	<key>utilde</key>
 	<string>utilde.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>v.superior</key>
 	<string>v.superior.glif</string>
+	<key>verticalfill</key>
+	<string>verticalfill.glif</string>
+	<key>victoryhand</key>
+	<string>victoryhand.glif</string>
 	<key>w</key>
 	<string>w.glif</string>
 	<key>w.superior</key>
 	<string>w.superior.glif</string>
+	<key>whitecircle</key>
+	<string>whitecircle.glif</string>
+	<key>whitediamond</key>
+	<string>whitediamond.glif</string>
+	<key>whitedownpointingindex</key>
+	<string>whitedownpointingindex.glif</string>
+	<key>whitelargesquare</key>
+	<string>whitelargesquare.glif</string>
+	<key>whiteleftpointingindex</key>
+	<string>whiteleftpointingindex.glif</string>
+	<key>whiterightpointingindex</key>
+	<string>whiterightpointingindex.glif</string>
+	<key>whiteroundedsquare</key>
+	<string>whiteroundedsquare.glif</string>
+	<key>whitesmallsquare</key>
+	<string>whitesmallsquare.glif</string>
+	<key>whitesmilingface</key>
+	<string>whitesmilingface.glif</string>
+	<key>whiteuppointingindex</key>
+	<string>whiteuppointingindex.glif</string>
 	<key>x</key>
 	<string>x.glif</string>
 	<key>x.superior</key>
@@ -796,6 +860,8 @@
 	<string>ydieresis.glif</string>
 	<key>yen</key>
 	<string>yen.glif</string>
+	<key>yen.LT</key>
+	<string>yen.LT_.glif</string>
 	<key>ygrave</key>
 	<string>ygrave.glif</string>
 	<key>z</key>

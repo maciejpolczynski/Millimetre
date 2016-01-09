@@ -80,6 +80,8 @@
 	<string>Egrave_.small.glif</string>
 	<key>Eth</key>
 	<string>Eth_.glif</string>
+	<key>Eth.small</key>
+	<string>Eth_.small.glif</string>
 	<key>Euro</key>
 	<string>Euro_.glif</string>
 	<key>F</key>
@@ -136,6 +138,10 @@
 	<string>L_.glif</string>
 	<key>L.small</key>
 	<string>L_.small.glif</string>
+	<key>Lslash</key>
+	<string>Lslash_.glif</string>
+	<key>Lslash.small</key>
+	<string>Lslash_.small.glif</string>
 	<key>M</key>
 	<string>M_.glif</string>
 	<key>M.small</key>
@@ -146,6 +152,8 @@
 	<string>N_.small.glif</string>
 	<key>Ntilde</key>
 	<string>Ntilde_.glif</string>
+	<key>Ntilde.small</key>
+	<string>Ntilde_.small.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
 	<key>O.small</key>
@@ -194,6 +202,10 @@
 	<string>S_.glif</string>
 	<key>S.small</key>
 	<string>S_.small.glif</string>
+	<key>Scaron</key>
+	<string>Scaron_.glif</string>
+	<key>Scaron.small</key>
+	<string>Scaron_.small.glif</string>
 	<key>Square_with_Horizontal_Fill</key>
 	<string>Square__with_Horizontal__Fill_.glif</string>
 	<key>Square_with_Upper_Left_To_Lower_Right_Fill</key>
@@ -208,6 +220,8 @@
 	<string>T_.small.glif</string>
 	<key>Thorn</key>
 	<string>Thorn_.glif</string>
+	<key>Thorn.small</key>
+	<string>Thorn_.small.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>U.small</key>
@@ -230,6 +244,8 @@
 	<string>Ugrave_.small.glif</string>
 	<key>Utilde</key>
 	<string>Utilde_.glif</string>
+	<key>Utilde.small</key>
+	<string>Utilde_.small.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
 	<key>V.small</key>
@@ -268,6 +284,10 @@
 	<string>Z_.glif</string>
 	<key>Z.small</key>
 	<string>Z_.small.glif</string>
+	<key>Zacute</key>
+	<string>Zacute_.glif</string>
+	<key>Zcaron</key>
+	<string>Zcaron_.glif</string>
 	<key>Zcaron.small</key>
 	<string>Zcaron_.small.glif</string>
 	<key>a</key>
@@ -338,6 +358,8 @@
 	<string>c.glif</string>
 	<key>c.superior</key>
 	<string>c.superior.glif</string>
+	<key>caron</key>
+	<string>caron.glif</string>
 	<key>ccedilla</key>
 	<string>ccedilla.glif</string>
 	<key>cedilla</key>
@@ -360,6 +382,8 @@
 	<string>degree.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
+	<key>divide</key>
+	<string>divide.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
 	<key>dotlessi</key>
@@ -394,6 +418,8 @@
 	<string>endash.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
+	<key>eth</key>
+	<string>eth.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
 	<key>exclamdown</key>
@@ -450,8 +476,6 @@
 	<string>i.glif</string>
 	<key>i.TRK</key>
 	<string>i.TRK_.glif</string>
-	<key>i.alt</key>
-	<string>i.alt.glif</string>
 	<key>i.superior</key>
 	<string>i.superior.glif</string>
 	<key>iacute</key>
@@ -462,6 +486,8 @@
 	<string>idieresis.glif</string>
 	<key>igrave</key>
 	<string>igrave.glif</string>
+	<key>ij</key>
+	<string>ij.glif</string>
 	<key>itilde</key>
 	<string>itilde.glif</string>
 	<key>j</key>
@@ -488,6 +514,8 @@
 	<string>m.superior.glif</string>
 	<key>minus</key>
 	<string>minus.glif</string>
+	<key>multiply</key>
+	<string>multiply.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
 	<key>n.superior</key>
@@ -500,6 +528,8 @@
 	<string>nine.inf.glif</string>
 	<key>nine.sup</key>
 	<string>nine.sup.glif</string>
+	<key>notequal</key>
+	<string>notequal.glif</string>
 	<key>ntilde</key>
 	<string>ntilde.glif</string>
 	<key>numbersign</key>
@@ -646,8 +676,6 @@
 	<string>u.glif</string>
 	<key>u.superior</key>
 	<string>u.superior.glif</string>
-	<key>uTilde.small</key>
-	<string>uTilde_.small.glif</string>
 	<key>uacute</key>
 	<string>uacute.glif</string>
 	<key>ucircumflex</key>
@@ -692,6 +720,8 @@
 	<string>z.glif</string>
 	<key>z.superior</key>
 	<string>z.superior.glif</string>
+	<key>zcaron</key>
+	<string>zcaron.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
 	<key>zero.LT</key>

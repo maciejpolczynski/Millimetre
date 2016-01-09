@@ -65,6 +65,8 @@
 		<string>ydieresis</string>
 		<string>ygrave</string>
 		<string>zcaron</string>
+		<string>eth</string>
+		<string>thorn</string>
 	</array>
 	<key>caps</key>
 	<array>
@@ -241,11 +243,14 @@
 		<string>Uacute.small</string>
 		<string>Ucircumflex.small</string>
 		<string>Udieresis.small</string>
+		<string>Utilde.small</string>
 		<string>uTilde.small</string>
 		<string>Yacute.small</string>
 		<string>Ycircumflex.small</string>
 		<string>Ydieresis.small</string>
 		<string>Ygrave.small</string>
+		<string>Eth.small</string>
+		<string>Thorn.small</string>
 		<string>Zcaron.small</string>
 	</array>
 	<key>sups.fromcap</key>

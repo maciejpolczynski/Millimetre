@@ -10,6 +10,9 @@
     </contour>
     <contour>
       <point x="25" y="400" type="line"/>
+      <point x="175" y="400" type="line"/>
+      <point x="300" y="415" type="line"/>
+      <point x="425" y="400" type="line"/>
       <point x="575" y="400" type="line"/>
       <point x="575" y="500" type="line"/>
       <point x="25" y="500" type="line"/>

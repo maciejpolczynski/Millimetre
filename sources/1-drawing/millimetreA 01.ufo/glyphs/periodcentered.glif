@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="periodcentered" format="1">
-  <advance width="202"/>
+  <advance width="200"/>
   <unicode hex="00B7"/>
   <outline>
     <contour>
@@ -124,7 +124,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>202</integer>
+          <integer>200</integer>
         </dict>
       </dict>
     </dict>

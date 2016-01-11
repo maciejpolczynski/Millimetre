@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="white_large_square" format="1">
+<glyph name="blacklargesquare" format="1">
   <advance width="1000"/>
-  <unicode hex="2B1C"/>
   <outline>
-    <contour>
-      <point x="100" y="-150" type="line"/>
-      <point x="100" y="650" type="line"/>
-      <point x="900" y="650" type="line"/>
-      <point x="900" y="-150" type="line"/>
-    </contour>
     <contour>
       <point x="50" y="-200" type="line"/>
       <point x="950" y="-200" type="line"/>
@@ -35,7 +28,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>white_large_square</string>
+          <string>blacklargesquare</string>
           <key>unicodes</key>
           <array>
           </array>

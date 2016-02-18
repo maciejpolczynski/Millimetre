@@ -6,7 +6,7 @@ Millimetre is a libre and open-source font currently still in developpment. Cont
 
 ## Specimen
 
-![specimen1](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/specimen/web/specimen_millimetre_web.png)
+![specimen1](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/specimen/web/specimen_millimetre_web1.png)
 ![specimen2](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/specimen/web/specimen_millimetre_web2.png)
 ![specimen3](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/specimen/web/specimen_millimetre_web3.png)
 ![specimen4](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/specimen/web/specimen_millimetre_web4.png)

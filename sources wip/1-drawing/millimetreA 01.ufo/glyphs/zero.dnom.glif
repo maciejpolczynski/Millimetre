@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zero.inf" format="1">
+<glyph name="zero.dnom" format="1">
   <advance width="400"/>
   <outline>
-    <component base="zero.sup" yOffset="-600"/>
+    <component base="zero.sup" yOffset="-400"/>
   </outline>
   <lib>
     <dict>
@@ -23,7 +23,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>zero.inf</string>
+          <string>zero.dnom</string>
           <key>unicodes</key>
           <array>
           </array>

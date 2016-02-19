@@ -334,11 +334,12 @@
 				<string>colon</string>
 				<string>period</string>
 				<string>ellipsis</string>
-				<string>hyphen</string>
 				<string>exclam</string>
 				<string>exclamdown</string>
+				<string>exclamdown.cap</string>
 				<string>question</string>
 				<string>questiondown</string>
+				<string>questiondown.cap</string>
 				<string>quoteleft</string>
 				<string>quoteright</string>
 				<string>quotedblleft</string>
@@ -351,21 +352,37 @@
 				<string>guilsinglright</string>
 				<string>guillemotleft</string>
 				<string>guillemotright</string>
+				<string>guilsinglleft.cap</string>
+				<string>guilsinglright.cap</string>
+				<string>guillemotleft.cap</string>
+				<string>guillemotright.cap</string>
 				<string>slash</string>
 				<string>backslash</string>
 				<string>bar</string>
 				<string>brokenbar</string>
+				<string>hyphen</string>
 				<string>endash</string>
 				<string>underscore</string>
 				<string>emdash</string>
+				<string>hyphen.cap</string>
+				<string>endash.cap</string>
+				<string>emdash.cap</string>
 				<string>bullet</string>
+				<string>bullet.cap</string>
 				<string>periodcentered</string>
+				<string>periodcentered.cap</string>
 				<string>parenleft</string>
 				<string>parenright</string>
 				<string>bracketleft</string>
 				<string>bracketright</string>
 				<string>braceleft</string>
 				<string>braceright</string>
+				<string>parenleft.cap</string>
+				<string>parenright.cap</string>
+				<string>bracketleft.cap</string>
+				<string>bracketright.cap</string>
+				<string>braceleft.cap</string>
+				<string>braceright.cap</string>
 				<string>asterisk</string>
 				<string>dagger</string>
 				<string>daggerdbl</string>
@@ -837,11 +854,12 @@
 		<string>colon</string>
 		<string>period</string>
 		<string>ellipsis</string>
-		<string>hyphen</string>
 		<string>exclam</string>
 		<string>exclamdown</string>
+		<string>exclamdown.cap</string>
 		<string>question</string>
 		<string>questiondown</string>
+		<string>questiondown.cap</string>
 		<string>quoteleft</string>
 		<string>quoteright</string>
 		<string>quotedblleft</string>
@@ -854,21 +872,37 @@
 		<string>guilsinglright</string>
 		<string>guillemotleft</string>
 		<string>guillemotright</string>
+		<string>guilsinglleft.cap</string>
+		<string>guilsinglright.cap</string>
+		<string>guillemotleft.cap</string>
+		<string>guillemotright.cap</string>
 		<string>slash</string>
 		<string>backslash</string>
 		<string>bar</string>
 		<string>brokenbar</string>
+		<string>hyphen</string>
 		<string>endash</string>
 		<string>underscore</string>
 		<string>emdash</string>
+		<string>hyphen.cap</string>
+		<string>endash.cap</string>
+		<string>emdash.cap</string>
 		<string>bullet</string>
+		<string>bullet.cap</string>
 		<string>periodcentered</string>
+		<string>periodcentered.cap</string>
 		<string>parenleft</string>
 		<string>parenright</string>
 		<string>bracketleft</string>
 		<string>bracketright</string>
 		<string>braceleft</string>
 		<string>braceright</string>
+		<string>parenleft.cap</string>
+		<string>parenright.cap</string>
+		<string>bracketleft.cap</string>
+		<string>bracketright.cap</string>
+		<string>braceleft.cap</string>
+		<string>braceright.cap</string>
 		<string>asterisk</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>

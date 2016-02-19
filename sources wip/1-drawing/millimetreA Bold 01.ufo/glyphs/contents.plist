@@ -354,16 +354,26 @@
 	<string>blackupperrighttriangle.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
+	<key>braceleft.cap</key>
+	<string>braceleft.cap.glif</string>
 	<key>braceright</key>
 	<string>braceright.glif</string>
+	<key>braceright.cap</key>
+	<string>braceright.cap.glif</string>
 	<key>bracketleft</key>
 	<string>bracketleft.glif</string>
+	<key>bracketleft.cap</key>
+	<string>bracketleft.cap.glif</string>
 	<key>bracketright</key>
 	<string>bracketright.glif</string>
+	<key>bracketright.cap</key>
+	<string>bracketright.cap.glif</string>
 	<key>brokenbar</key>
 	<string>brokenbar.glif</string>
 	<key>bullet</key>
 	<string>bullet.glif</string>
+	<key>bullet.cap</key>
+	<string>bullet.cap.glif</string>
 	<key>bullseye</key>
 	<string>bullseye.glif</string>
 	<key>c</key>
@@ -460,8 +470,12 @@
 	<string>ellipsis.glif</string>
 	<key>emdash</key>
 	<string>emdash.glif</string>
+	<key>emdash.cap</key>
+	<string>emdash.cap.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
+	<key>endash.cap</key>
+	<string>endash.cap.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
 	<key>eth</key>
@@ -470,6 +484,8 @@
 	<string>exclam.glif</string>
 	<key>exclamdown</key>
 	<string>exclamdown.glif</string>
+	<key>exclamdown.cap</key>
+	<string>exclamdown.cap.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>f.superior</key>
@@ -492,6 +508,8 @@
 	<string>four.inf.glif</string>
 	<key>four.sup</key>
 	<string>four.sup.glif</string>
+	<key>fraction</key>
+	<string>fraction.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>g.alt</key>
@@ -506,12 +524,20 @@
 	<string>greater.glif</string>
 	<key>guillemotleft</key>
 	<string>guillemotleft.glif</string>
+	<key>guillemotleft.cap</key>
+	<string>guillemotleft.cap.glif</string>
 	<key>guillemotright</key>
 	<string>guillemotright.glif</string>
+	<key>guillemotright.cap</key>
+	<string>guillemotright.cap.glif</string>
 	<key>guilsinglleft</key>
 	<string>guilsinglleft.glif</string>
+	<key>guilsinglleft.cap</key>
+	<string>guilsinglleft.cap.glif</string>
 	<key>guilsinglright</key>
 	<string>guilsinglright.glif</string>
+	<key>guilsinglright.cap</key>
+	<string>guilsinglright.cap.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
 	<key>h.superior</key>
@@ -526,6 +552,8 @@
 	<string>horizontalfill.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
+	<key>hyphen.cap</key>
+	<string>hyphen.cap.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>i.TRK</key>
@@ -642,14 +670,20 @@
 	<string>paragraph.glif</string>
 	<key>parenleft</key>
 	<string>parenleft.glif</string>
+	<key>parenleft.cap</key>
+	<string>parenleft.cap.glif</string>
 	<key>parenright</key>
 	<string>parenright.glif</string>
+	<key>parenright.cap</key>
+	<string>parenright.cap.glif</string>
 	<key>percent</key>
 	<string>percent.glif</string>
 	<key>period</key>
 	<string>period.glif</string>
 	<key>periodcentered</key>
 	<string>periodcentered.glif</string>
+	<key>periodcentered.cap</key>
+	<string>periodcentered.cap.glif</string>
 	<key>perthousand</key>
 	<string>perthousand.glif</string>
 	<key>plus</key>
@@ -666,6 +700,8 @@
 	<string>question.glif</string>
 	<key>questiondown</key>
 	<string>questiondown.glif</string>
+	<key>questiondown.cap</key>
+	<string>questiondown.cap.glif</string>
 	<key>quotedbl</key>
 	<string>quotedbl.glif</string>
 	<key>quotedblbase</key>

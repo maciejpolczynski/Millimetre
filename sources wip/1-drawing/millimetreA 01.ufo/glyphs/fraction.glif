@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zero.inf" format="1">
-  <advance width="400"/>
+<glyph name="fraction" format="1">
+  <advance width="0"/>
+  <unicode hex="2044"/>
   <outline>
-    <component base="zero.sup" yOffset="-600"/>
+    <contour>
+      <point x="-360" y="0" type="line"/>
+      <point x="-240" y="0" type="line"/>
+      <point x="360" y="700" type="line"/>
+      <point x="240" y="700" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -23,21 +29,14 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>zero.inf</string>
+          <string>fraction</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>400</integer>
+          <integer>0</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>0.1987</real>
-      </array>
     </dict>
   </lib>
 </glyph>

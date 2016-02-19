@@ -10,10 +10,14 @@ languagesystem latn dflt;
 @figs.LT = [zero.LT one.LT two.LT three.LT four.LT five.LT six.LT seven.LT eight.LT nine.LT];
 @figs.sups =  [zero.sup one.sup two.sup three.sup four.sup five.sup six.sup seven.sup eight.sup nine.sup];
 @figs.sinf =  [zero.inf one.inf two.inf three.inf four.inf five.inf six.inf seven.inf eight.inf nine.inf];
+@figs.dnom =  [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 
 @sups.to = [ a.superior b.superior c.superior d.superior e.superior f.superior g.superior h.superior i.superior j.superior k.superior l.superior m.superior n.superior o.superior p.superior q.superior r.superior s.superior t.superior u.superior v.superior w.superior x.superior y.superior z.superior ];
 @sups.fromcap = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ];
 @sups.fromlc = [ a b c d e f g h i j k l m n o p q r s t u v w x y z ];
+
+@casefrom = [exclamdown questiondown guilsinglleft guilsinglright guillemotleft guillemotright hyphen endash emdash bullet periodcentered parenleft parenright bracketleft bracketright braceleft braceright];
+@caseto = [exclamdown.cap questiondown.cap guilsinglleft.cap guilsinglright.cap guillemotleft.cap guillemotright.cap hyphen.cap endash.cap emdash.cap bullet.cap periodcentered.cap parenleft.cap parenright.cap bracketleft.cap bracketright.cap braceleft.cap braceright.cap ];
 
 feature pnum {
     sub @figs.LT by @figs.LP;
@@ -32,16 +36,32 @@ feature sups {
   sub i.TRK by i.superior;
 } sups;
 
+feature numr {
+# Latin 
+  sub @figs.LP by @figs.numr;
+  #sub @math by @math.sinf;
+} numr;
+
 feature sinf {
 # Latin 
   sub @figs.LP by @figs.sinf;
   #sub @math by @math.sinf;
 } sinf;
 
+feature dnom {
+# Latin 
+  sub @figs.LP by @figs.dnom;
+  #sub @math by @math.sinf;
+} dnom;
+
 feature smcp{
     sub @bdc2smcp by @smcp.frombdc;
     }smcp;
-    
+
+feature case{
+    sub @casefrom by @caseto;
+    }case;
+
 feature ss01{
     sub [a agrave aacute acircumflex atilde adieresis aring ae] by [a.alt agrave.alt aacute.alt acircumflex.alt atilde.alt adieresis.alt aring.alt ae.alt];
     }ss01;
@@ -55,11 +75,3 @@ feature ss02{
 feature salt{
     lookup g_alt;
     }salt;
-
-#feature zero { # Slashed Zero
-
- # Latin
-
-    #sub [zero zero.LP zero.LT zero.OT] by [zero.slash zero.slash.LP zero.slash.LT zero.slash.OT];
-
-#} zero;

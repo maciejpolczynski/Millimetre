@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zero.inf" format="1">
-  <advance width="400"/>
+<glyph name="one.dnom" format="1">
+  <advance width="200"/>
   <outline>
-    <component base="zero.sup" yOffset="-600"/>
+    <component base="one.sup" yOffset="-400"/>
   </outline>
   <lib>
     <dict>
@@ -23,12 +23,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>zero.inf</string>
+          <string>one.dnom</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>400</integer>
+          <integer>200</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

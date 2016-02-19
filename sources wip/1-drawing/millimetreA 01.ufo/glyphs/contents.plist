@@ -358,16 +358,26 @@
 	<string>blackupperrighttriangle.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
+	<key>braceleft.cap</key>
+	<string>braceleft.cap.glif</string>
 	<key>braceright</key>
 	<string>braceright.glif</string>
+	<key>braceright.cap</key>
+	<string>braceright.cap.glif</string>
 	<key>bracketleft</key>
 	<string>bracketleft.glif</string>
+	<key>bracketleft.cap</key>
+	<string>bracketleft.cap.glif</string>
 	<key>bracketright</key>
 	<string>bracketright.glif</string>
+	<key>bracketright.cap</key>
+	<string>bracketright.cap.glif</string>
 	<key>brokenbar</key>
 	<string>brokenbar.glif</string>
 	<key>bullet</key>
 	<string>bullet.glif</string>
+	<key>bullet.cap</key>
+	<string>bullet.cap.glif</string>
 	<key>bullseye</key>
 	<string>bullseye.glif</string>
 	<key>c</key>
@@ -462,6 +472,8 @@
 	<string>eight.glif</string>
 	<key>eight.LT</key>
 	<string>eight.LT_.glif</string>
+	<key>eight.dnom</key>
+	<string>eight.dnom.glif</string>
 	<key>eight.inf</key>
 	<string>eight.inf.glif</string>
 	<key>eight.sup</key>
@@ -470,8 +482,12 @@
 	<string>ellipsis.glif</string>
 	<key>emdash</key>
 	<string>emdash.glif</string>
+	<key>emdash.cap</key>
+	<string>emdash.cap.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
+	<key>endash.cap</key>
+	<string>endash.cap.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
 	<key>eth</key>
@@ -480,6 +496,8 @@
 	<string>exclam.glif</string>
 	<key>exclamdown</key>
 	<string>exclamdown.glif</string>
+	<key>exclamdown.cap</key>
+	<string>exclamdown.cap.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>f.superior</key>
@@ -490,6 +508,8 @@
 	<string>five.glif</string>
 	<key>five.LT</key>
 	<string>five.LT_.glif</string>
+	<key>five.dnom</key>
+	<string>five.dnom.glif</string>
 	<key>five.inf</key>
 	<string>five.inf.glif</string>
 	<key>five.sup</key>
@@ -498,10 +518,14 @@
 	<string>four.glif</string>
 	<key>four.LT</key>
 	<string>four.LT_.glif</string>
+	<key>four.dnom</key>
+	<string>four.dnom.glif</string>
 	<key>four.inf</key>
 	<string>four.inf.glif</string>
 	<key>four.sup</key>
 	<string>four.sup.glif</string>
+	<key>fraction</key>
+	<string>fraction.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>g.alt</key>
@@ -516,12 +540,20 @@
 	<string>greater.glif</string>
 	<key>guillemotleft</key>
 	<string>guillemotleft.glif</string>
+	<key>guillemotleft.cap</key>
+	<string>guillemotleft.cap.glif</string>
 	<key>guillemotright</key>
 	<string>guillemotright.glif</string>
+	<key>guillemotright.cap</key>
+	<string>guillemotright.cap.glif</string>
 	<key>guilsinglleft</key>
 	<string>guilsinglleft.glif</string>
+	<key>guilsinglleft.cap</key>
+	<string>guilsinglleft.cap.glif</string>
 	<key>guilsinglright</key>
 	<string>guilsinglright.glif</string>
+	<key>guilsinglright.cap</key>
+	<string>guilsinglright.cap.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
 	<key>h.superior</key>
@@ -536,6 +568,8 @@
 	<string>horizontalfill.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
+	<key>hyphen.cap</key>
+	<string>hyphen.cap.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>i.TRK</key>
@@ -594,6 +628,8 @@
 	<string>nine.glif</string>
 	<key>nine.LT</key>
 	<string>nine.LT_.glif</string>
+	<key>nine.dnom</key>
+	<string>nine.dnom.glif</string>
 	<key>nine.inf</key>
 	<string>nine.inf.glif</string>
 	<key>nine.sup</key>
@@ -628,6 +664,8 @@
 	<string>one.glif</string>
 	<key>one.LT</key>
 	<string>one.LT_.glif</string>
+	<key>one.dnom</key>
+	<string>one.dnom.glif</string>
 	<key>one.inf</key>
 	<string>one.inf.glif</string>
 	<key>one.sup</key>
@@ -652,14 +690,20 @@
 	<string>paragraph.glif</string>
 	<key>parenleft</key>
 	<string>parenleft.glif</string>
+	<key>parenleft.cap</key>
+	<string>parenleft.cap.glif</string>
 	<key>parenright</key>
 	<string>parenright.glif</string>
+	<key>parenright.cap</key>
+	<string>parenright.cap.glif</string>
 	<key>percent</key>
 	<string>percent.glif</string>
 	<key>period</key>
 	<string>period.glif</string>
 	<key>periodcentered</key>
 	<string>periodcentered.glif</string>
+	<key>periodcentered.cap</key>
+	<string>periodcentered.cap.glif</string>
 	<key>perthousand</key>
 	<string>perthousand.glif</string>
 	<key>plus</key>
@@ -676,6 +720,8 @@
 	<string>question.glif</string>
 	<key>questiondown</key>
 	<string>questiondown.glif</string>
+	<key>questiondown.cap</key>
+	<string>questiondown.cap.glif</string>
 	<key>quotedbl</key>
 	<string>quotedbl.glif</string>
 	<key>quotedblbase</key>
@@ -718,6 +764,8 @@
 	<string>seven.glif</string>
 	<key>seven.LT</key>
 	<string>seven.LT_.glif</string>
+	<key>seven.dnom</key>
+	<string>seven.dnom.glif</string>
 	<key>seven.inf</key>
 	<string>seven.inf.glif</string>
 	<key>seven.sup</key>
@@ -726,6 +774,8 @@
 	<string>six.glif</string>
 	<key>six.LT</key>
 	<string>six.LT_.glif</string>
+	<key>six.dnom</key>
+	<string>six.dnom.glif</string>
 	<key>six.inf</key>
 	<string>six.inf.glif</string>
 	<key>six.sup</key>
@@ -782,6 +832,8 @@
 	<string>three.glif</string>
 	<key>three.LT</key>
 	<string>three.LT_.glif</string>
+	<key>three.dnom</key>
+	<string>three.dnom.glif</string>
 	<key>three.inf</key>
 	<string>three.inf.glif</string>
 	<key>three.sup</key>
@@ -798,6 +850,8 @@
 	<string>two.glif</string>
 	<key>two.LT</key>
 	<string>two.LT_.glif</string>
+	<key>two.dnom</key>
+	<string>two.dnom.glif</string>
 	<key>two.inf</key>
 	<string>two.inf.glif</string>
 	<key>two.sup</key>
@@ -888,6 +942,8 @@
 	<string>zero.glif</string>
 	<key>zero.LT</key>
 	<string>zero.LT_.glif</string>
+	<key>zero.dnom</key>
+	<string>zero.dnom.glif</string>
 	<key>zero.inf</key>
 	<string>zero.inf.glif</string>
 	<key>zero.sup</key>

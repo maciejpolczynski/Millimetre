@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zero.inf" format="1">
+<glyph name="guillemotright.cap" format="1">
   <advance width="400"/>
   <outline>
-    <component base="zero.sup" yOffset="-600"/>
+    <component base="guillemotleft" xScale="-1.0" xyScale="-4.99600361081e-16" yxScale="4.99600361081e-16" yScale="-1.0" xOffset="400" yOffset="600"/>
   </outline>
   <lib>
     <dict>
@@ -23,7 +23,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>zero.inf</string>
+          <string>guillemotright.cap</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -33,10 +33,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>0.1987</real>
+        <real>0.8157</real>
+        <real>0.8157</real>
+        <real>0.8157</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>

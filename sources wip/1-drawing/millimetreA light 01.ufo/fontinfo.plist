@@ -24,7 +24,7 @@
 	<array>
 		<integer>2</integer>
 		<integer>11</integer>
-		<integer>6</integer>
+		<integer>3</integer>
 		<integer>6</integer>
 		<integer>2</integer>
 		<integer>2</integer>
@@ -39,6 +39,10 @@
 	<array>
 		<integer>0</integer>
 	</array>
+	<key>openTypeOS2WeightClass</key>
+	<integer>200</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>

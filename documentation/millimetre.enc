@@ -3,8 +3,13 @@
 
 CR
 
+hairspace
+thinspace
 space
-nbspace
+enspace
+nonbreakingspace
+largespace
+emspace 
 
 CA
 
@@ -453,6 +458,8 @@ ae.alt
 
 ORN
 
+verticalruler
+horizontalruler
 heavyverticalandhorizontal
 whitelargesquare
 whiteroundedsquare

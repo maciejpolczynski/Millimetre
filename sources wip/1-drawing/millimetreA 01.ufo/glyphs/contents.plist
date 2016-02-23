@@ -4,6 +4,8 @@
 <dict>
 	<key>.notdef</key>
 	<string>_notdef.glif</string>
+	<key>.null</key>
+	<string>_null.glif</string>
 	<key>A</key>
 	<string>A_.glif</string>
 	<key>A.small</key>
@@ -484,10 +486,14 @@
 	<string>emdash.glif</string>
 	<key>emdash.cap</key>
 	<string>emdash.cap.glif</string>
+	<key>emspace</key>
+	<string>emspace.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
 	<key>endash.cap</key>
 	<string>endash.cap.glif</string>
+	<key>enspace</key>
+	<string>enspace.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
 	<key>eth</key>
@@ -558,6 +564,8 @@
 	<string>h.glif</string>
 	<key>h.superior</key>
 	<string>h.superior.glif</string>
+	<key>hairspace</key>
+	<string>hairspace.glif</string>
 	<key>hashed</key>
 	<string>hashed.glif</string>
 	<key>hashedlargesquare</key>
@@ -566,6 +574,8 @@
 	<string>heavyverticalandhorizontal.glif</string>
 	<key>horizontalfill</key>
 	<string>horizontalfill.glif</string>
+	<key>horizontalruler</key>
+	<string>horizontalruler.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
 	<key>hyphen.cap</key>
@@ -600,6 +610,8 @@
 	<string>l.glif</string>
 	<key>l.superior</key>
 	<string>l.superior.glif</string>
+	<key>largespace</key>
+	<string>largespace.glif</string>
 	<key>leftrightarrow</key>
 	<string>leftrightarrow.glif</string>
 	<key>leftwardsarrow</key>
@@ -634,6 +646,8 @@
 	<string>nine.inf.glif</string>
 	<key>nine.sup</key>
 	<string>nine.sup.glif</string>
+	<key>nonbreakingspace</key>
+	<string>nonbreakingspace.glif</string>
 	<key>northeastarrow</key>
 	<string>northeastarrow.glif</string>
 	<key>northwestarrow</key>
@@ -826,6 +840,8 @@
 	<string>t.glif</string>
 	<key>t.superior</key>
 	<string>t.superior.glif</string>
+	<key>thinspace</key>
+	<string>thinspace.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
 	<key>three</key>
@@ -886,6 +902,8 @@
 	<string>v.superior.glif</string>
 	<key>verticalfill</key>
 	<string>verticalfill.glif</string>
+	<key>verticalruler</key>
+	<string>verticalruler.glif</string>
 	<key>victoryhand</key>
 	<string>victoryhand.glif</string>
 	<key>w</key>

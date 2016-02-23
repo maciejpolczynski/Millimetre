@@ -229,7 +229,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>400.0000000000001</real>
+          <real>400.0</real>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

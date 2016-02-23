@@ -30,7 +30,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/jjjlllnnn/ownCloud/Typo/millimetre/sources/2-otf/millimetreA 01.otf</string>
+	<string>/Users/jjjlllnnn/ownCloud/Typo/millimetre/fonts/millimetreA 01.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerShow</key>
@@ -77,8 +77,13 @@
 				<string>.notdef</string>
 				<string>.null</string>
 				<string>CR</string>
+				<string>hairspace</string>
+				<string>thinspace</string>
 				<string>space</string>
-				<string>nbspace</string>
+				<string>enspace</string>
+				<string>nonbreakingspace</string>
+				<string>largespace</string>
+				<string>emspace</string>
 				<string>CA</string>
 				<string>A</string>
 				<string>B</string>
@@ -500,6 +505,8 @@
 				<string>aring.alt</string>
 				<string>ae.alt</string>
 				<string>ORN</string>
+				<string>verticalruler</string>
+				<string>horizontalruler</string>
 				<string>heavyverticalandhorizontal</string>
 				<string>whitelargesquare</string>
 				<string>whiteroundedsquare</string>
@@ -607,8 +614,13 @@
 		<string>.notdef</string>
 		<string>.null</string>
 		<string>CR</string>
+		<string>hairspace</string>
+		<string>thinspace</string>
 		<string>space</string>
-		<string>nbspace</string>
+		<string>enspace</string>
+		<string>nonbreakingspace</string>
+		<string>largespace</string>
+		<string>emspace</string>
 		<string>CA</string>
 		<string>A</string>
 		<string>B</string>
@@ -1030,6 +1042,8 @@
 		<string>aring.alt</string>
 		<string>ae.alt</string>
 		<string>ORN</string>
+		<string>verticalruler</string>
+		<string>horizontalruler</string>
 		<string>heavyverticalandhorizontal</string>
 		<string>whitelargesquare</string>
 		<string>whiteroundedsquare</string>
@@ -1125,6 +1139,7 @@
 		<string>pistol</string>
 		<string>blackscissors</string>
 		<string>VTF</string>
+		<string>nbspace</string>
 	</array>
 </dict>
 </plist>

@@ -30,7 +30,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/jjjlllnnn/ownCloud/Typo/millimetre/sources/2-otf/millimetreA Bold 01.otf</string>
+	<string>/Users/jjjlllnnn/ownCloud/Typo/millimetre/fonts/millimetreA Bold 01.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerShow</key>
@@ -585,6 +585,7 @@
 				<string>pistol</string>
 				<string>blackscissors</string>
 				<string>VTF</string>
+				<string>j.alt</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>

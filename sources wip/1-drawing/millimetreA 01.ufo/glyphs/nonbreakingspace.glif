@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nonbreakingspace" format="1">
-  <advance width="400"/>
+  <advance width="200"/>
   <outline>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>400</integer>
+          <integer>200</integer>
         </dict>
       </dict>
     </dict>

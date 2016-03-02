@@ -77,8 +77,13 @@
 				<string>.notdef</string>
 				<string>.null</string>
 				<string>CR</string>
+				<string>hairspace</string>
+				<string>thinspace</string>
 				<string>space</string>
-				<string>nbspace</string>
+				<string>enspace</string>
+				<string>nonbreakingspace</string>
+				<string>largespace</string>
+				<string>emspace</string>
 				<string>CA</string>
 				<string>A</string>
 				<string>B</string>
@@ -402,6 +407,7 @@
 				<string>cent</string>
 				<string>yen</string>
 				<string>zero</string>
+				<string>zero.slash</string>
 				<string>one</string>
 				<string>two</string>
 				<string>three</string>
@@ -418,6 +424,7 @@
 				<string>cent.LT</string>
 				<string>yen.LT</string>
 				<string>zero.LT</string>
+				<string>zero.slash.LT</string>
 				<string>one.LT</string>
 				<string>two.LT</string>
 				<string>three.LT</string>
@@ -448,6 +455,16 @@
 				<string>seven.inf</string>
 				<string>eight.inf</string>
 				<string>nine.inf</string>
+				<string>zero.dnom</string>
+				<string>one.dnom</string>
+				<string>two.dnom</string>
+				<string>three.dnom</string>
+				<string>four.dnom</string>
+				<string>five.dnom</string>
+				<string>six.dnom</string>
+				<string>seven.dnom</string>
+				<string>eight.dnom</string>
+				<string>nine.dnom</string>
 				<string>fraction</string>
 				<string>onehalf</string>
 				<string>onequarter</string>
@@ -473,12 +490,6 @@
 				<string>infinity</string>
 				<string>degree</string>
 				<string>ampersand</string>
-				<string>LIG</string>
-				<string>fi</string>
-				<string>fl</string>
-				<string>f_f</string>
-				<string>f_f_i</string>
-				<string>f_f_l</string>
 				<string>ALT</string>
 				<string>g.alt</string>
 				<string>a.alt</string>
@@ -490,6 +501,8 @@
 				<string>aring.alt</string>
 				<string>ae.alt</string>
 				<string>ORN</string>
+				<string>verticalruler</string>
+				<string>horizontalruler</string>
 				<string>heavyverticalandhorizontal</string>
 				<string>whitelargesquare</string>
 				<string>whiteroundedsquare</string>
@@ -585,7 +598,9 @@
 				<string>pistol</string>
 				<string>blackscissors</string>
 				<string>VTF</string>
-				<string>j.alt</string>
+				<string>m.alt2</string>
+				<string>zeroslash</string>
+				<string>zeroslash.LT</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -598,8 +613,13 @@
 		<string>.notdef</string>
 		<string>.null</string>
 		<string>CR</string>
+		<string>hairspace</string>
+		<string>thinspace</string>
 		<string>space</string>
-		<string>nbspace</string>
+		<string>enspace</string>
+		<string>nonbreakingspace</string>
+		<string>largespace</string>
+		<string>emspace</string>
 		<string>CA</string>
 		<string>A</string>
 		<string>B</string>
@@ -923,6 +943,7 @@
 		<string>cent</string>
 		<string>yen</string>
 		<string>zero</string>
+		<string>zero.slash</string>
 		<string>one</string>
 		<string>two</string>
 		<string>three</string>
@@ -939,6 +960,7 @@
 		<string>cent.LT</string>
 		<string>yen.LT</string>
 		<string>zero.LT</string>
+		<string>zero.slash.LT</string>
 		<string>one.LT</string>
 		<string>two.LT</string>
 		<string>three.LT</string>
@@ -969,6 +991,16 @@
 		<string>seven.inf</string>
 		<string>eight.inf</string>
 		<string>nine.inf</string>
+		<string>zero.dnom</string>
+		<string>one.dnom</string>
+		<string>two.dnom</string>
+		<string>three.dnom</string>
+		<string>four.dnom</string>
+		<string>five.dnom</string>
+		<string>six.dnom</string>
+		<string>seven.dnom</string>
+		<string>eight.dnom</string>
+		<string>nine.dnom</string>
 		<string>fraction</string>
 		<string>onehalf</string>
 		<string>onequarter</string>
@@ -994,12 +1026,6 @@
 		<string>infinity</string>
 		<string>degree</string>
 		<string>ampersand</string>
-		<string>LIG</string>
-		<string>fi</string>
-		<string>fl</string>
-		<string>f_f</string>
-		<string>f_f_i</string>
-		<string>f_f_l</string>
 		<string>ALT</string>
 		<string>g.alt</string>
 		<string>a.alt</string>
@@ -1011,6 +1037,8 @@
 		<string>aring.alt</string>
 		<string>ae.alt</string>
 		<string>ORN</string>
+		<string>verticalruler</string>
+		<string>horizontalruler</string>
 		<string>heavyverticalandhorizontal</string>
 		<string>whitelargesquare</string>
 		<string>whiteroundedsquare</string>
@@ -1106,7 +1134,8 @@
 		<string>pistol</string>
 		<string>blackscissors</string>
 		<string>VTF</string>
-		<string>j.alt</string>
+		<string>m.alt2</string>
+		<string>numero</string>
 	</array>
 </dict>
 </plist>

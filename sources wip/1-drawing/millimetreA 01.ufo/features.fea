@@ -11,6 +11,8 @@ languagesystem latn dflt;
 @figs.sups =  [zero.sup one.sup two.sup three.sup four.sup five.sup six.sup seven.sup eight.sup nine.sup];
 @figs.sinf =  [zero.inf one.inf two.inf three.inf four.inf five.inf six.inf seven.inf eight.inf nine.inf];
 @figs.dnom =  [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+@figs.all=[zero.slash zero one two three four five six seven eight nine zero.slash.LT zero.LT one.LT two.LT three.LT four.LT five.LT six.LT seven.LT eight.LT nine.LT];
+
 
 @sups.to = [ a.superior b.superior c.superior d.superior e.superior f.superior g.superior h.superior i.superior j.superior k.superior l.superior m.superior n.superior o.superior p.superior q.superior r.superior s.superior t.superior u.superior v.superior w.superior x.superior y.superior z.superior ];
 @sups.fromcap = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ];
@@ -53,6 +55,38 @@ feature dnom {
   sub @figs.LP by @figs.dnom;
   #sub @math by @math.sinf;
 } dnom;
+
+feature ordn { # Ordinals
+
+  sub @figs.all [O o]' by ordmasculine;
+
+  sub @figs.all [A a]' by ordfeminine;
+
+  sub N [O o degree ordmasculine] by numero;
+
+  sub n [O o degree ordmasculine] by numero;
+
+  sub @sups.fromcap by @sups.to;
+
+  sub @sups.fromlc by @sups.to;
+
+  sub i.TRK by i.superior;
+
+} ordn;
+
+feature zero { # Slashed Zero
+
+ # DEFAULT
+
+    sub [zero zero.LT ] by [zero.slash zero.slash.LT ];
+
+ script latn; # Latin
+
+    sub [zero zero.LT ] by [zero.slash zero.slash.LT ];
+    
+ language TRK ; # Turkish
+
+} zero;
 
 feature smcp{
     sub @bdc2smcp by @smcp.frombdc;

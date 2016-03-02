@@ -4,8 +4,6 @@
 <dict>
 	<key>.notdef</key>
 	<string>_notdef.glif</string>
-	<key>.null</key>
-	<string>_null.glif</string>
 	<key>A</key>
 	<string>A_.glif</string>
 	<key>A.small</key>
@@ -420,6 +418,8 @@
 	<string>comma.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
+	<key>currency</key>
+	<string>currency.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
 	<key>d.superior</key>
@@ -660,6 +660,8 @@
 	<string>numbersign.glif</string>
 	<key>numbersign.LT</key>
 	<string>numbersign.LT_.glif</string>
+	<key>numero</key>
+	<string>numero.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
 	<key>o.superior</key>
@@ -964,6 +966,10 @@
 	<string>zero.dnom.glif</string>
 	<key>zero.inf</key>
 	<string>zero.inf.glif</string>
+	<key>zero.slash</key>
+	<string>zero.slash.glif</string>
+	<key>zero.slash.LT</key>
+	<string>zero.slash.LT_.glif</string>
 	<key>zero.sup</key>
 	<string>zero.sup.glif</string>
 </dict>

@@ -346,7 +346,8 @@ Euro
 dollar 
 cent 
 yen 
-zero 
+zero
+zero.slash
 one 
 two 
 three 
@@ -365,6 +366,7 @@ dollar.LT
 cent.LT
 yen.LT
 zero.LT
+zero.slash.LT
 one.LT
 two.LT
 three.LT
@@ -436,14 +438,6 @@ infinity
 degree
 
 ampersand
-
-LIG
-
-fi
-fl
-f_f
-f_f_i
-f_f_l
 
 ALT
 g.alt

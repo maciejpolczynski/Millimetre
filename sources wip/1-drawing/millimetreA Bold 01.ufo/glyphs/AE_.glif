@@ -40,16 +40,19 @@
       <point x="400" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="450" y="300" type="line"/>
-      <point x="850" y="300" type="line"/>
-      <point x="850" y="450" type="line"/>
-      <point x="450" y="450" type="line"/>
+      <point x="450" y="250" type="line"/>
+      <point x="850" y="250" type="line"/>
+      <point x="850" y="400" type="line"/>
+      <point x="450" y="400" type="line"/>
     </contour>
     <contour>
       <point x="300.0" y="650.0" type="move" name="top"/>
     </contour>
     <contour>
       <point x="665.0" y="650.0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="815" y="650" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

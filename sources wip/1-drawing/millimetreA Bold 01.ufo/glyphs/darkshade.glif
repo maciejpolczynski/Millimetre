@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="darkshade" format="1">
   <advance width="1000"/>
+  <unicode hex="2593"/>
   <outline>
     <contour>
       <point x="125" y="490" type="curve" smooth="yes"/>

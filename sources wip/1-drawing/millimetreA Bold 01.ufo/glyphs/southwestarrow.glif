@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="southwestarrow" format="1">
   <advance width="800"/>
+  <unicode hex="2199"/>
   <outline>
     <contour>
       <point x="655" y="675" type="line"/>

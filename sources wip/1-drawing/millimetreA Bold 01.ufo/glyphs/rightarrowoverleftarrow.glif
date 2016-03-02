@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rightarrowoverleftarrow" format="1">
   <advance width="1000"/>
+  <unicode hex="21C4"/>
   <outline>
     <contour>
       <point x="900" y="0" type="line"/>

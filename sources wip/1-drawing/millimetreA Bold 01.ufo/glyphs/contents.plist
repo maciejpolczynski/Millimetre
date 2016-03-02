@@ -82,6 +82,8 @@
 	<string>Eth_.small.glif</string>
 	<key>Euro</key>
 	<string>Euro_.glif</string>
+	<key>Euro.LT</key>
+	<string>Euro_.LT_.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>F.small</key>
@@ -114,6 +116,8 @@
 	<string>Idieresis_.glif</string>
 	<key>Idieresis.small</key>
 	<string>Idieresis_.small.glif</string>
+	<key>Idotaccent</key>
+	<string>Idotaccent_.glif</string>
 	<key>Idotaccent.small</key>
 	<string>Idotaccent_.small.glif</string>
 	<key>Igrave</key>
@@ -388,6 +392,8 @@
 	<string>cedilla.glif</string>
 	<key>cent</key>
 	<string>cent.glif</string>
+	<key>cent.LT</key>
+	<string>cent.LT_.glif</string>
 	<key>circleupleftquadrantwhite</key>
 	<string>circleupleftquadrantwhite.glif</string>
 	<key>circleuprightquadrantblack</key>
@@ -412,6 +418,8 @@
 	<string>comma.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
+	<key>currency</key>
+	<string>currency.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
 	<key>d.superior</key>
@@ -436,6 +444,10 @@
 	<string>divide.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
+	<key>dollar.LT</key>
+	<string>dollar.LT_.glif</string>
+	<key>dotaccent</key>
+	<string>dotaccent.glif</string>
 	<key>dotlessi</key>
 	<string>dotlessi.glif</string>
 	<key>dotlessj</key>
@@ -462,6 +474,8 @@
 	<string>eight.glif</string>
 	<key>eight.LT</key>
 	<string>eight.LT_.glif</string>
+	<key>eight.dnom</key>
+	<string>eight.dnom.glif</string>
 	<key>eight.inf</key>
 	<string>eight.inf.glif</string>
 	<key>eight.sup</key>
@@ -472,10 +486,14 @@
 	<string>emdash.glif</string>
 	<key>emdash.cap</key>
 	<string>emdash.cap.glif</string>
+	<key>emspace</key>
+	<string>emspace.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
 	<key>endash.cap</key>
 	<string>endash.cap.glif</string>
+	<key>enspace</key>
+	<string>enspace.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
 	<key>eth</key>
@@ -496,6 +514,8 @@
 	<string>five.glif</string>
 	<key>five.LT</key>
 	<string>five.LT_.glif</string>
+	<key>five.dnom</key>
+	<string>five.dnom.glif</string>
 	<key>five.inf</key>
 	<string>five.inf.glif</string>
 	<key>five.sup</key>
@@ -504,6 +524,8 @@
 	<string>four.glif</string>
 	<key>four.LT</key>
 	<string>four.LT_.glif</string>
+	<key>four.dnom</key>
+	<string>four.dnom.glif</string>
 	<key>four.inf</key>
 	<string>four.inf.glif</string>
 	<key>four.sup</key>
@@ -542,6 +564,8 @@
 	<string>h.glif</string>
 	<key>h.superior</key>
 	<string>h.superior.glif</string>
+	<key>hairspace</key>
+	<string>hairspace.glif</string>
 	<key>hashed</key>
 	<string>hashed.glif</string>
 	<key>hashedlargesquare</key>
@@ -550,6 +574,8 @@
 	<string>heavyverticalandhorizontal.glif</string>
 	<key>horizontalfill</key>
 	<string>horizontalfill.glif</string>
+	<key>horizontalruler</key>
+	<string>horizontalruler.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
 	<key>hyphen.cap</key>
@@ -574,8 +600,6 @@
 	<string>itilde.glif</string>
 	<key>j</key>
 	<string>j.glif</string>
-	<key>j.alt</key>
-	<string>j.alt.glif</string>
 	<key>j.superior</key>
 	<string>j.superior.glif</string>
 	<key>k</key>
@@ -586,6 +610,8 @@
 	<string>l.glif</string>
 	<key>l.superior</key>
 	<string>l.superior.glif</string>
+	<key>largespace</key>
+	<string>largespace.glif</string>
 	<key>leftrightarrow</key>
 	<string>leftrightarrow.glif</string>
 	<key>leftwardsarrow</key>
@@ -598,6 +624,8 @@
 	<string>lslash.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
+	<key>m.alt2</key>
+	<string>m.alt2.glif</string>
 	<key>m.superior</key>
 	<string>m.superior.glif</string>
 	<key>mediumshade</key>
@@ -614,10 +642,14 @@
 	<string>nine.glif</string>
 	<key>nine.LT</key>
 	<string>nine.LT_.glif</string>
+	<key>nine.dnom</key>
+	<string>nine.dnom.glif</string>
 	<key>nine.inf</key>
 	<string>nine.inf.glif</string>
 	<key>nine.sup</key>
 	<string>nine.sup.glif</string>
+	<key>nonbreakingspace</key>
+	<string>nonbreakingspace.glif</string>
 	<key>northeastarrow</key>
 	<string>northeastarrow.glif</string>
 	<key>northwestarrow</key>
@@ -628,6 +660,10 @@
 	<string>ntilde.glif</string>
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
+	<key>numbersign.LT</key>
+	<string>numbersign.LT_.glif</string>
+	<key>numero</key>
+	<string>numero.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
 	<key>o.superior</key>
@@ -646,6 +682,8 @@
 	<string>one.glif</string>
 	<key>one.LT</key>
 	<string>one.LT_.glif</string>
+	<key>one.dnom</key>
+	<string>one.dnom.glif</string>
 	<key>one.inf</key>
 	<string>one.inf.glif</string>
 	<key>one.sup</key>
@@ -744,6 +782,8 @@
 	<string>seven.glif</string>
 	<key>seven.LT</key>
 	<string>seven.LT_.glif</string>
+	<key>seven.dnom</key>
+	<string>seven.dnom.glif</string>
 	<key>seven.inf</key>
 	<string>seven.inf.glif</string>
 	<key>seven.sup</key>
@@ -752,6 +792,8 @@
 	<string>six.glif</string>
 	<key>six.LT</key>
 	<string>six.LT_.glif</string>
+	<key>six.dnom</key>
+	<string>six.dnom.glif</string>
 	<key>six.inf</key>
 	<string>six.inf.glif</string>
 	<key>six.sup</key>
@@ -802,12 +844,16 @@
 	<string>t.glif</string>
 	<key>t.superior</key>
 	<string>t.superior.glif</string>
+	<key>thinspace</key>
+	<string>thinspace.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
 	<key>three.LT</key>
 	<string>three.LT_.glif</string>
+	<key>three.dnom</key>
+	<string>three.dnom.glif</string>
 	<key>three.inf</key>
 	<string>three.inf.glif</string>
 	<key>three.sup</key>
@@ -824,6 +870,8 @@
 	<string>two.glif</string>
 	<key>two.LT</key>
 	<string>two.LT_.glif</string>
+	<key>two.dnom</key>
+	<string>two.dnom.glif</string>
 	<key>two.inf</key>
 	<string>two.inf.glif</string>
 	<key>two.sup</key>
@@ -858,6 +906,8 @@
 	<string>v.superior.glif</string>
 	<key>verticalfill</key>
 	<string>verticalfill.glif</string>
+	<key>verticalruler</key>
+	<string>verticalruler.glif</string>
 	<key>victoryhand</key>
 	<string>victoryhand.glif</string>
 	<key>w</key>
@@ -900,6 +950,8 @@
 	<string>ydieresis.glif</string>
 	<key>yen</key>
 	<string>yen.glif</string>
+	<key>yen.LT</key>
+	<string>yen.LT_.glif</string>
 	<key>ygrave</key>
 	<string>ygrave.glif</string>
 	<key>z</key>
@@ -912,8 +964,14 @@
 	<string>zero.glif</string>
 	<key>zero.LT</key>
 	<string>zero.LT_.glif</string>
+	<key>zero.dnom</key>
+	<string>zero.dnom.glif</string>
 	<key>zero.inf</key>
 	<string>zero.inf.glif</string>
+	<key>zero.slash</key>
+	<string>zero.slash.glif</string>
+	<key>zero.slash.LT</key>
+	<string>zero.slash.LT_.glif</string>
 	<key>zero.sup</key>
 	<string>zero.sup.glif</string>
 </dict>

@@ -1,6 +1,6 @@
 # Millimetre
 
-![specimen1](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/specimen/web/specimen_millimetre_web1.png)
+![specimen1](https://github.com/jjjlllnnn/Millimetre/blob/master/documentation/specimen/web/specimen_millimetre_web.png)
 
 Millimetre is a serie of fonts constructed on a grid based on the metric system. It follows the decimal logic of this system. In this spirit, when you typeset Millimetre, you don’t use the archaic unit of the point but the millimetre, centimetre, decimeter or the meter itself for the really big sizes.
 

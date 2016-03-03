@@ -2,23 +2,19 @@
 unified font repository version: "0.2"
 unified font repository url: https://github.com/raphaelbastide/Unified-Font-Repository/
 typeface family:
-  name: Demo
+  name: Millimetre
   tags:
   - sans-serif
-  - pixel
-  - 80s
-  - condesed
-  - grotesque
-  - monospace
+  - 70s
+  - grid
   - incomplete
-  - decorative
+  - ornaments
+  - monolinear
   repository url: https://github.com/user/Demo
-  project url: https://website.com/demofontproject
+  project url: http://jjllnn.fr/#entry-29
   tools:
-  - Inkscape
-  - Fontforge
+  - Robofont
   similar fonts:
-  - Helvetica
-  - Neue Haas Grotesk
+  - Eurostyle
   sample text: The quick brown fox jumps over the lazy dog
 ...

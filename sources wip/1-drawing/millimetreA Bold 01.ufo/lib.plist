@@ -600,6 +600,7 @@
 				<string>VTF</string>
 				<string>m.alt2</string>
 				<string>numero</string>
+				<string>m.alt</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1135,6 +1136,7 @@
 		<string>VTF</string>
 		<string>m.alt2</string>
 		<string>numero</string>
+		<string>m.alt</string>
 	</array>
 </dict>
 </plist>

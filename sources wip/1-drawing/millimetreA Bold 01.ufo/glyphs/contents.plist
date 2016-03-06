@@ -566,6 +566,8 @@
 	<string>h.superior.glif</string>
 	<key>hairspace</key>
 	<string>hairspace.glif</string>
+	<key>hammer</key>
+	<string>hammer.glif</string>
 	<key>hashed</key>
 	<string>hashed.glif</string>
 	<key>hashedlargesquare</key>
@@ -624,6 +626,8 @@
 	<string>lslash.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
+	<key>m.alt</key>
+	<string>m.alt.glif</string>
 	<key>m.alt2</key>
 	<string>m.alt2.glif</string>
 	<key>m.superior</key>
@@ -724,6 +728,8 @@
 	<string>periodcentered.cap.glif</string>
 	<key>perthousand</key>
 	<string>perthousand.glif</string>
+	<key>pistol</key>
+	<string>pistol.glif</string>
 	<key>plus</key>
 	<string>plus.glif</string>
 	<key>plusminus</key>

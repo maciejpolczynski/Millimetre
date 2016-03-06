@@ -30,7 +30,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/jjjlllnnn/ownCloud/Typo/millimetre/sources/2-otf/millimetreA 02.otf</string>
+	<string>/Users/jjjlllnnn/ownCloud/Typo/millimetre/sources wip/2-otf/millimetreA extended 01.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerShow</key>
@@ -77,8 +77,13 @@
 				<string>.notdef</string>
 				<string>.null</string>
 				<string>CR</string>
+				<string>hairspace</string>
+				<string>thinspace</string>
 				<string>space</string>
-				<string>nbspace</string>
+				<string>enspace</string>
+				<string>nonbreakingspace</string>
+				<string>largespace</string>
+				<string>emspace</string>
 				<string>CA</string>
 				<string>A</string>
 				<string>B</string>
@@ -123,6 +128,8 @@
 				<string>Icircumflex</string>
 				<string>Idieresis</string>
 				<string>Idotaccent</string>
+				<string>Itilde</string>
+				<string>IJ</string>
 				<string>Lslash</string>
 				<string>Ntilde</string>
 				<string>Ograve</string>
@@ -137,8 +144,12 @@
 				<string>Uacute</string>
 				<string>Ucircumflex</string>
 				<string>Udieresis</string>
+				<string>Utilde</string>
 				<string>Yacute</string>
+				<string>Ycircumflex</string>
 				<string>Ydieresis</string>
+				<string>Ygrave</string>
+				<string>Zacute</string>
 				<string>Zcaron</string>
 				<string>Eth</string>
 				<string>Thorn</string>
@@ -185,8 +196,11 @@
 				<string>iacute</string>
 				<string>icircumflex</string>
 				<string>idieresis</string>
+				<string>itilde</string>
 				<string>dotlessi</string>
 				<string>i.TRK</string>
+				<string>ij</string>
+				<string>dotlessj</string>
 				<string>lslash</string>
 				<string>ntilde</string>
 				<string>ograve</string>
@@ -202,11 +216,109 @@
 				<string>uacute</string>
 				<string>ucircumflex</string>
 				<string>udieresis</string>
+				<string>utilde</string>
 				<string>yacute</string>
+				<string>ycircumflex</string>
 				<string>ydieresis</string>
+				<string>ygrave</string>
 				<string>zcaron</string>
 				<string>eth</string>
 				<string>thorn</string>
+				<string>SC</string>
+				<string>A.small</string>
+				<string>B.small</string>
+				<string>C.small</string>
+				<string>D.small</string>
+				<string>E.small</string>
+				<string>F.small</string>
+				<string>G.small</string>
+				<string>H.small</string>
+				<string>I.small</string>
+				<string>J.small</string>
+				<string>K.small</string>
+				<string>L.small</string>
+				<string>M.small</string>
+				<string>N.small</string>
+				<string>O.small</string>
+				<string>P.small</string>
+				<string>Q.small</string>
+				<string>R.small</string>
+				<string>S.small</string>
+				<string>T.small</string>
+				<string>U.small</string>
+				<string>V.small</string>
+				<string>W.small</string>
+				<string>X.small</string>
+				<string>Y.small</string>
+				<string>Z.small</string>
+				<string>Agrave.small</string>
+				<string>Aacute.small</string>
+				<string>Acircumflex.small</string>
+				<string>Atilde.small</string>
+				<string>Adieresis.small</string>
+				<string>Aring.small</string>
+				<string>AE.small</string>
+				<string>Ccedilla.small</string>
+				<string>Egrave.small</string>
+				<string>Eacute.small</string>
+				<string>Ecircumflex.small</string>
+				<string>Edieresis.small</string>
+				<string>Igrave.small</string>
+				<string>Iacute.small</string>
+				<string>Icircumflex.small</string>
+				<string>Idieresis.small</string>
+				<string>Idotaccent.small</string>
+				<string>Itilde.small</string>
+				<string>IJ.small</string>
+				<string>Lslash.small</string>
+				<string>Ntilde.small</string>
+				<string>Ograve.small</string>
+				<string>Oacute.small</string>
+				<string>Ocircumflex.small</string>
+				<string>Otilde.small</string>
+				<string>Odieresis.small</string>
+				<string>Oslash.small</string>
+				<string>OE.small</string>
+				<string>Scaron.small</string>
+				<string>Ugrave.small</string>
+				<string>Uacute.small</string>
+				<string>Ucircumflex.small</string>
+				<string>Udieresis.small</string>
+				<string>Utilde.small</string>
+				<string>Yacute.small</string>
+				<string>Ycircumflex.small</string>
+				<string>Ydieresis.small</string>
+				<string>Ygrave.small</string>
+				<string>Zcaron.small</string>
+				<string>Eth.small</string>
+				<string>Thorn.small</string>
+				<string>SUP</string>
+				<string>a.superior</string>
+				<string>b.superior</string>
+				<string>c.superior</string>
+				<string>d.superior</string>
+				<string>e.superior</string>
+				<string>f.superior</string>
+				<string>g.superior</string>
+				<string>h.superior</string>
+				<string>i.superior</string>
+				<string>j.superior</string>
+				<string>k.superior</string>
+				<string>l.superior</string>
+				<string>m.superior</string>
+				<string>n.superior</string>
+				<string>o.superior</string>
+				<string>p.superior</string>
+				<string>q.superior</string>
+				<string>r.superior</string>
+				<string>s.superior</string>
+				<string>t.superior</string>
+				<string>u.superior</string>
+				<string>v.superior</string>
+				<string>w.superior</string>
+				<string>x.superior</string>
+				<string>y.superior</string>
+				<string>z.superior</string>
 				<string>AC</string>
 				<string>grave</string>
 				<string>acute</string>
@@ -227,11 +339,12 @@
 				<string>colon</string>
 				<string>period</string>
 				<string>ellipsis</string>
-				<string>hyphen</string>
 				<string>exclam</string>
 				<string>exclamdown</string>
+				<string>exclamdown.cap</string>
 				<string>question</string>
 				<string>questiondown</string>
+				<string>questiondown.cap</string>
 				<string>quoteleft</string>
 				<string>quoteright</string>
 				<string>quotedblleft</string>
@@ -244,21 +357,37 @@
 				<string>guilsinglright</string>
 				<string>guillemotleft</string>
 				<string>guillemotright</string>
+				<string>guilsinglleft.cap</string>
+				<string>guilsinglright.cap</string>
+				<string>guillemotleft.cap</string>
+				<string>guillemotright.cap</string>
 				<string>slash</string>
 				<string>backslash</string>
 				<string>bar</string>
 				<string>brokenbar</string>
+				<string>hyphen</string>
 				<string>endash</string>
 				<string>underscore</string>
 				<string>emdash</string>
+				<string>hyphen.cap</string>
+				<string>endash.cap</string>
+				<string>emdash.cap</string>
 				<string>bullet</string>
+				<string>bullet.cap</string>
 				<string>periodcentered</string>
+				<string>periodcentered.cap</string>
 				<string>parenleft</string>
 				<string>parenright</string>
 				<string>bracketleft</string>
 				<string>bracketright</string>
 				<string>braceleft</string>
 				<string>braceright</string>
+				<string>parenleft.cap</string>
+				<string>parenright.cap</string>
+				<string>bracketleft.cap</string>
+				<string>bracketright.cap</string>
+				<string>braceleft.cap</string>
+				<string>braceright.cap</string>
 				<string>asterisk</string>
 				<string>dagger</string>
 				<string>daggerdbl</string>
@@ -276,10 +405,9 @@
 				<string>Euro</string>
 				<string>dollar</string>
 				<string>cent</string>
-				<string>sterling</string>
-				<string>florin</string>
 				<string>yen</string>
 				<string>zero</string>
+				<string>zero.slash</string>
 				<string>one</string>
 				<string>two</string>
 				<string>three</string>
@@ -294,10 +422,9 @@
 				<string>Euro.LT</string>
 				<string>dollar.LT</string>
 				<string>cent.LT</string>
-				<string>sterling.LT</string>
-				<string>florin.LT</string>
 				<string>yen.LT</string>
 				<string>zero.LT</string>
+				<string>zero.slash.LT</string>
 				<string>one.LT</string>
 				<string>two.LT</string>
 				<string>three.LT</string>
@@ -318,6 +445,26 @@
 				<string>seven.sup</string>
 				<string>eight.sup</string>
 				<string>nine.sup</string>
+				<string>zero.inf</string>
+				<string>one.inf</string>
+				<string>two.inf</string>
+				<string>three.inf</string>
+				<string>four.inf</string>
+				<string>five.inf</string>
+				<string>six.inf</string>
+				<string>seven.inf</string>
+				<string>eight.inf</string>
+				<string>nine.inf</string>
+				<string>zero.dnom</string>
+				<string>one.dnom</string>
+				<string>two.dnom</string>
+				<string>three.dnom</string>
+				<string>four.dnom</string>
+				<string>five.dnom</string>
+				<string>six.dnom</string>
+				<string>seven.dnom</string>
+				<string>eight.dnom</string>
+				<string>nine.dnom</string>
 				<string>fraction</string>
 				<string>onehalf</string>
 				<string>onequarter</string>
@@ -339,55 +486,118 @@
 				<string>greater</string>
 				<string>lessequal</string>
 				<string>greaterequal</string>
-				<string>logicalnot</string>
 				<string>currency</string>
 				<string>infinity</string>
-				<string>lozenge</string>
-				<string>Delta</string>
-				<string>Omega</string>
-				<string>partialdiff</string>
-				<string>integral</string>
-				<string>radical</string>
-				<string>summation</string>
-				<string>product</string>
-				<string>pi</string>
-				<string>mu</string>
 				<string>degree</string>
-				<string>litre</string>
-				<string>estimated</string>
 				<string>ampersand</string>
-				<string>LIG</string>
-				<string>fi</string>
-				<string>fl</string>
-				<string>f_f</string>
-				<string>f_f_i</string>
-				<string>f_f_l</string>
-				<string>Ygrave</string>
+				<string>ALT</string>
 				<string>g.alt</string>
-				<string>Square_with_Vertical_Fill</string>
-				<string>Box_Drawings_Heavy_Vertical_and_Horizontal</string>
-				<string>Square_with_Upper_Left_To_Lower_Right_Fill</string>
-				<string>ygrave</string>
-				<string>dotlessj</string>
-				<string>utilde</string>
-				<string>twosuperior</string>
 				<string>a.alt</string>
-				<string>Square_with_Horizontal_Fill</string>
-				<string>VTF2</string>
-				<string>white_large_square</string>
-				<string>threesuperior</string>
-				<string>Utilde</string>
-				<string>Itilde</string>
-				<string>Ycircumflex</string>
-				<string>g.alt2</string>
-				<string>ycircumflex</string>
+				<string>agrave.alt</string>
+				<string>aacute.alt</string>
+				<string>acircumflex.alt</string>
+				<string>atilde.alt</string>
+				<string>adieresis.alt</string>
+				<string>aring.alt</string>
+				<string>ae.alt</string>
+				<string>ORN</string>
+				<string>verticalruler</string>
+				<string>horizontalruler</string>
+				<string>heavyverticalandhorizontal</string>
+				<string>whitelargesquare</string>
+				<string>whiteroundedsquare</string>
+				<string>blacklargesquare</string>
+				<string>dottedsquare</string>
+				<string>squaredsquare</string>
+				<string>squarewithblacksmallsquare</string>
+				<string>blacksmallsquare</string>
+				<string>whitesmallsquare</string>
+				<string>blackdiamond</string>
+				<string>whitediamond</string>
+				<string>diamondwithblacksmalldiamond</string>
+				<string>squarewithlefthalfblack</string>
+				<string>squarewithrighthalfblack</string>
+				<string>squareupleftdiagonalhalfblack</string>
+				<string>squarelowrightdiagonalhalfblack</string>
+				<string>squareverticalbisectingline</string>
+				<string>verticalfill</string>
+				<string>squarewithverticalfill</string>
+				<string>squarewithhorizontalfill</string>
+				<string>horizontalfill</string>
+				<string>hashedlargesquare</string>
+				<string>hashed</string>
+				<string>squareuplefttolowrightfill</string>
+				<string>upperlefttolowrightfill</string>
+				<string>squareuprighttolowleftfill</string>
+				<string>uprighttolowerleftfill</string>
+				<string>squarediagonalcrosshatchfill</string>
+				<string>diagonalcrosshatchfill</string>
+				<string>squarewithupperleftquadrant</string>
+				<string>squarewithlowerleftquadrant</string>
+				<string>squarewithlowerrightquadrant</string>
+				<string>squarewithupperrightquadrant</string>
+				<string>diamondinsquare</string>
+				<string>whitecircle</string>
+				<string>blackcircle</string>
+				<string>fisheye</string>
+				<string>bullseye</string>
+				<string>dottedcircle</string>
+				<string>circlewithverticalfill</string>
+				<string>circlewithlefthalfblack</string>
+				<string>circlewithrighthalfblack</string>
+				<string>circlewithlowerhalfblack</string>
+				<string>circlewithupperhalfblack</string>
+				<string>circleuprightquadrantblack</string>
+				<string>circleupleftquadrantwhite</string>
+				<string>blacklowerrighttriangle</string>
+				<string>blacklowerlefttriangle</string>
+				<string>blackupperlefttriangle</string>
+				<string>blackupperrighttriangle</string>
+				<string>lightshade</string>
+				<string>mediumshade</string>
+				<string>darkshade</string>
+				<string>blackshade</string>
+				<string>leftwardsarrow</string>
+				<string>upwardsarrow</string>
+				<string>rightwardsarrow</string>
+				<string>downwardsarrow</string>
+				<string>leftrightarrow</string>
+				<string>updownarrow</string>
+				<string>northwestarrow</string>
+				<string>northeastarrow</string>
+				<string>southeastarrow</string>
+				<string>southwestarrow</string>
+				<string>rightarrowoverleftarrow</string>
+				<string>twistedrightwardsarrows</string>
+				<string>clockwisearrows</string>
+				<string>whiteuppointingindex</string>
+				<string>whitedownpointingindex</string>
+				<string>whiteleftpointingindex</string>
+				<string>whiterightpointingindex</string>
+				<string>victoryhand</string>
+				<string>whitesmilingface</string>
+				<string>blacksmilingface</string>
+				<string>skullandcrossbones</string>
+				<string>fire</string>
+				<string>atomsymbol</string>
+				<string>highvoltagesign</string>
+				<string>radioactivesign</string>
+				<string>checkmark</string>
+				<string>ballotx</string>
+				<string>pencil</string>
+				<string>lowerrightpencil</string>
+				<string>upperrightpencil</string>
+				<string>whitenib</string>
+				<string>blacknib</string>
+				<string>floppydisk</string>
+				<string>rightpointingmagnifyingglass</string>
+				<string>lock</string>
+				<string>openlock</string>
+				<string>wrench</string>
+				<string>hammer</string>
+				<string>pistol</string>
+				<string>blackscissors</string>
 				<string>VTF</string>
-				<string>onesuperior</string>
-				<string>Square_with_Upper_Right_To_Lower_Left_Fill</string>
-				<string>hashed_large_square</string>
-				<string>itilde</string>
-				<string>IJ</string>
-				<string>black_large_square</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -400,8 +610,13 @@
 		<string>.notdef</string>
 		<string>.null</string>
 		<string>CR</string>
+		<string>hairspace</string>
+		<string>thinspace</string>
 		<string>space</string>
-		<string>nbspace</string>
+		<string>enspace</string>
+		<string>nonbreakingspace</string>
+		<string>largespace</string>
+		<string>emspace</string>
 		<string>CA</string>
 		<string>A</string>
 		<string>B</string>
@@ -446,6 +661,8 @@
 		<string>Icircumflex</string>
 		<string>Idieresis</string>
 		<string>Idotaccent</string>
+		<string>Itilde</string>
+		<string>IJ</string>
 		<string>Lslash</string>
 		<string>Ntilde</string>
 		<string>Ograve</string>
@@ -460,8 +677,12 @@
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
 		<string>Udieresis</string>
+		<string>Utilde</string>
 		<string>Yacute</string>
+		<string>Ycircumflex</string>
 		<string>Ydieresis</string>
+		<string>Ygrave</string>
+		<string>Zacute</string>
 		<string>Zcaron</string>
 		<string>Eth</string>
 		<string>Thorn</string>
@@ -508,8 +729,11 @@
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
+		<string>itilde</string>
 		<string>dotlessi</string>
 		<string>i.TRK</string>
+		<string>ij</string>
+		<string>dotlessj</string>
 		<string>lslash</string>
 		<string>ntilde</string>
 		<string>ograve</string>
@@ -525,11 +749,109 @@
 		<string>uacute</string>
 		<string>ucircumflex</string>
 		<string>udieresis</string>
+		<string>utilde</string>
 		<string>yacute</string>
+		<string>ycircumflex</string>
 		<string>ydieresis</string>
+		<string>ygrave</string>
 		<string>zcaron</string>
 		<string>eth</string>
 		<string>thorn</string>
+		<string>SC</string>
+		<string>A.small</string>
+		<string>B.small</string>
+		<string>C.small</string>
+		<string>D.small</string>
+		<string>E.small</string>
+		<string>F.small</string>
+		<string>G.small</string>
+		<string>H.small</string>
+		<string>I.small</string>
+		<string>J.small</string>
+		<string>K.small</string>
+		<string>L.small</string>
+		<string>M.small</string>
+		<string>N.small</string>
+		<string>O.small</string>
+		<string>P.small</string>
+		<string>Q.small</string>
+		<string>R.small</string>
+		<string>S.small</string>
+		<string>T.small</string>
+		<string>U.small</string>
+		<string>V.small</string>
+		<string>W.small</string>
+		<string>X.small</string>
+		<string>Y.small</string>
+		<string>Z.small</string>
+		<string>Agrave.small</string>
+		<string>Aacute.small</string>
+		<string>Acircumflex.small</string>
+		<string>Atilde.small</string>
+		<string>Adieresis.small</string>
+		<string>Aring.small</string>
+		<string>AE.small</string>
+		<string>Ccedilla.small</string>
+		<string>Egrave.small</string>
+		<string>Eacute.small</string>
+		<string>Ecircumflex.small</string>
+		<string>Edieresis.small</string>
+		<string>Igrave.small</string>
+		<string>Iacute.small</string>
+		<string>Icircumflex.small</string>
+		<string>Idieresis.small</string>
+		<string>Idotaccent.small</string>
+		<string>Itilde.small</string>
+		<string>IJ.small</string>
+		<string>Lslash.small</string>
+		<string>Ntilde.small</string>
+		<string>Ograve.small</string>
+		<string>Oacute.small</string>
+		<string>Ocircumflex.small</string>
+		<string>Otilde.small</string>
+		<string>Odieresis.small</string>
+		<string>Oslash.small</string>
+		<string>OE.small</string>
+		<string>Scaron.small</string>
+		<string>Ugrave.small</string>
+		<string>Uacute.small</string>
+		<string>Ucircumflex.small</string>
+		<string>Udieresis.small</string>
+		<string>Utilde.small</string>
+		<string>Yacute.small</string>
+		<string>Ycircumflex.small</string>
+		<string>Ydieresis.small</string>
+		<string>Ygrave.small</string>
+		<string>Zcaron.small</string>
+		<string>Eth.small</string>
+		<string>Thorn.small</string>
+		<string>SUP</string>
+		<string>a.superior</string>
+		<string>b.superior</string>
+		<string>c.superior</string>
+		<string>d.superior</string>
+		<string>e.superior</string>
+		<string>f.superior</string>
+		<string>g.superior</string>
+		<string>h.superior</string>
+		<string>i.superior</string>
+		<string>j.superior</string>
+		<string>k.superior</string>
+		<string>l.superior</string>
+		<string>m.superior</string>
+		<string>n.superior</string>
+		<string>o.superior</string>
+		<string>p.superior</string>
+		<string>q.superior</string>
+		<string>r.superior</string>
+		<string>s.superior</string>
+		<string>t.superior</string>
+		<string>u.superior</string>
+		<string>v.superior</string>
+		<string>w.superior</string>
+		<string>x.superior</string>
+		<string>y.superior</string>
+		<string>z.superior</string>
 		<string>AC</string>
 		<string>grave</string>
 		<string>acute</string>
@@ -550,11 +872,12 @@
 		<string>colon</string>
 		<string>period</string>
 		<string>ellipsis</string>
-		<string>hyphen</string>
 		<string>exclam</string>
 		<string>exclamdown</string>
+		<string>exclamdown.cap</string>
 		<string>question</string>
 		<string>questiondown</string>
+		<string>questiondown.cap</string>
 		<string>quoteleft</string>
 		<string>quoteright</string>
 		<string>quotedblleft</string>
@@ -567,21 +890,37 @@
 		<string>guilsinglright</string>
 		<string>guillemotleft</string>
 		<string>guillemotright</string>
+		<string>guilsinglleft.cap</string>
+		<string>guilsinglright.cap</string>
+		<string>guillemotleft.cap</string>
+		<string>guillemotright.cap</string>
 		<string>slash</string>
 		<string>backslash</string>
 		<string>bar</string>
 		<string>brokenbar</string>
+		<string>hyphen</string>
 		<string>endash</string>
 		<string>underscore</string>
 		<string>emdash</string>
+		<string>hyphen.cap</string>
+		<string>endash.cap</string>
+		<string>emdash.cap</string>
 		<string>bullet</string>
+		<string>bullet.cap</string>
 		<string>periodcentered</string>
+		<string>periodcentered.cap</string>
 		<string>parenleft</string>
 		<string>parenright</string>
 		<string>bracketleft</string>
 		<string>bracketright</string>
 		<string>braceleft</string>
 		<string>braceright</string>
+		<string>parenleft.cap</string>
+		<string>parenright.cap</string>
+		<string>bracketleft.cap</string>
+		<string>bracketright.cap</string>
+		<string>braceleft.cap</string>
+		<string>braceright.cap</string>
 		<string>asterisk</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>
@@ -599,10 +938,9 @@
 		<string>Euro</string>
 		<string>dollar</string>
 		<string>cent</string>
-		<string>sterling</string>
-		<string>florin</string>
 		<string>yen</string>
 		<string>zero</string>
+		<string>zero.slash</string>
 		<string>one</string>
 		<string>two</string>
 		<string>three</string>
@@ -617,10 +955,9 @@
 		<string>Euro.LT</string>
 		<string>dollar.LT</string>
 		<string>cent.LT</string>
-		<string>sterling.LT</string>
-		<string>florin.LT</string>
 		<string>yen.LT</string>
 		<string>zero.LT</string>
+		<string>zero.slash.LT</string>
 		<string>one.LT</string>
 		<string>two.LT</string>
 		<string>three.LT</string>
@@ -641,6 +978,26 @@
 		<string>seven.sup</string>
 		<string>eight.sup</string>
 		<string>nine.sup</string>
+		<string>zero.inf</string>
+		<string>one.inf</string>
+		<string>two.inf</string>
+		<string>three.inf</string>
+		<string>four.inf</string>
+		<string>five.inf</string>
+		<string>six.inf</string>
+		<string>seven.inf</string>
+		<string>eight.inf</string>
+		<string>nine.inf</string>
+		<string>zero.dnom</string>
+		<string>one.dnom</string>
+		<string>two.dnom</string>
+		<string>three.dnom</string>
+		<string>four.dnom</string>
+		<string>five.dnom</string>
+		<string>six.dnom</string>
+		<string>seven.dnom</string>
+		<string>eight.dnom</string>
+		<string>nine.dnom</string>
 		<string>fraction</string>
 		<string>onehalf</string>
 		<string>onequarter</string>
@@ -662,54 +1019,154 @@
 		<string>greater</string>
 		<string>lessequal</string>
 		<string>greaterequal</string>
-		<string>logicalnot</string>
 		<string>currency</string>
 		<string>infinity</string>
-		<string>lozenge</string>
-		<string>Delta</string>
-		<string>Omega</string>
-		<string>partialdiff</string>
-		<string>integral</string>
-		<string>radical</string>
-		<string>summation</string>
-		<string>product</string>
-		<string>pi</string>
-		<string>mu</string>
 		<string>degree</string>
-		<string>litre</string>
-		<string>estimated</string>
 		<string>ampersand</string>
-		<string>LIG</string>
+		<string>ALT</string>
+		<string>g.alt</string>
+		<string>a.alt</string>
+		<string>agrave.alt</string>
+		<string>aacute.alt</string>
+		<string>acircumflex.alt</string>
+		<string>atilde.alt</string>
+		<string>adieresis.alt</string>
+		<string>aring.alt</string>
+		<string>ae.alt</string>
+		<string>ORN</string>
+		<string>verticalruler</string>
+		<string>horizontalruler</string>
+		<string>heavyverticalandhorizontal</string>
+		<string>whitelargesquare</string>
+		<string>whiteroundedsquare</string>
+		<string>blacklargesquare</string>
+		<string>dottedsquare</string>
+		<string>squaredsquare</string>
+		<string>squarewithblacksmallsquare</string>
+		<string>blacksmallsquare</string>
+		<string>whitesmallsquare</string>
+		<string>blackdiamond</string>
+		<string>whitediamond</string>
+		<string>diamondwithblacksmalldiamond</string>
+		<string>squarewithlefthalfblack</string>
+		<string>squarewithrighthalfblack</string>
+		<string>squareupleftdiagonalhalfblack</string>
+		<string>squarelowrightdiagonalhalfblack</string>
+		<string>squareverticalbisectingline</string>
+		<string>verticalfill</string>
+		<string>squarewithverticalfill</string>
+		<string>squarewithhorizontalfill</string>
+		<string>horizontalfill</string>
+		<string>hashedlargesquare</string>
+		<string>hashed</string>
+		<string>squareuplefttolowrightfill</string>
+		<string>upperlefttolowrightfill</string>
+		<string>squareuprighttolowleftfill</string>
+		<string>uprighttolowerleftfill</string>
+		<string>squarediagonalcrosshatchfill</string>
+		<string>diagonalcrosshatchfill</string>
+		<string>squarewithupperleftquadrant</string>
+		<string>squarewithlowerleftquadrant</string>
+		<string>squarewithlowerrightquadrant</string>
+		<string>squarewithupperrightquadrant</string>
+		<string>diamondinsquare</string>
+		<string>whitecircle</string>
+		<string>blackcircle</string>
+		<string>fisheye</string>
+		<string>bullseye</string>
+		<string>dottedcircle</string>
+		<string>circlewithverticalfill</string>
+		<string>circlewithlefthalfblack</string>
+		<string>circlewithrighthalfblack</string>
+		<string>circlewithlowerhalfblack</string>
+		<string>circlewithupperhalfblack</string>
+		<string>circleuprightquadrantblack</string>
+		<string>circleupleftquadrantwhite</string>
+		<string>blacklowerrighttriangle</string>
+		<string>blacklowerlefttriangle</string>
+		<string>blackupperlefttriangle</string>
+		<string>blackupperrighttriangle</string>
+		<string>lightshade</string>
+		<string>mediumshade</string>
+		<string>darkshade</string>
+		<string>blackshade</string>
+		<string>leftwardsarrow</string>
+		<string>upwardsarrow</string>
+		<string>rightwardsarrow</string>
+		<string>downwardsarrow</string>
+		<string>leftrightarrow</string>
+		<string>updownarrow</string>
+		<string>northwestarrow</string>
+		<string>northeastarrow</string>
+		<string>southeastarrow</string>
+		<string>southwestarrow</string>
+		<string>rightarrowoverleftarrow</string>
+		<string>twistedrightwardsarrows</string>
+		<string>clockwisearrows</string>
+		<string>whiteuppointingindex</string>
+		<string>whitedownpointingindex</string>
+		<string>whiteleftpointingindex</string>
+		<string>whiterightpointingindex</string>
+		<string>victoryhand</string>
+		<string>whitesmilingface</string>
+		<string>blacksmilingface</string>
+		<string>skullandcrossbones</string>
+		<string>fire</string>
+		<string>atomsymbol</string>
+		<string>highvoltagesign</string>
+		<string>radioactivesign</string>
+		<string>checkmark</string>
+		<string>ballotx</string>
+		<string>pencil</string>
+		<string>lowerrightpencil</string>
+		<string>upperrightpencil</string>
+		<string>whitenib</string>
+		<string>blacknib</string>
+		<string>floppydisk</string>
+		<string>rightpointingmagnifyingglass</string>
+		<string>lock</string>
+		<string>openlock</string>
+		<string>wrench</string>
+		<string>hammer</string>
+		<string>pistol</string>
+		<string>blackscissors</string>
+		<string>VTF</string>
+		<string>twosuperior</string>
+		<string>Square_with_Vertical_Fill</string>
+		<string>Square_with_Upper_Left_To_Lower_Right_Fill</string>
+		<string>summation</string>
+		<string>mu</string>
+		<string>litre</string>
+		<string>hashed_large_square</string>
+		<string>product</string>
 		<string>fi</string>
 		<string>fl</string>
-		<string>f_f</string>
-		<string>f_f_i</string>
-		<string>f_f_l</string>
-		<string>Ygrave</string>
-		<string>g.alt</string>
-		<string>Square_with_Vertical_Fill</string>
+		<string>LIG</string>
 		<string>Box_Drawings_Heavy_Vertical_and_Horizontal</string>
-		<string>Square_with_Upper_Left_To_Lower_Right_Fill</string>
-		<string>ygrave</string>
-		<string>dotlessj</string>
-		<string>utilde</string>
-		<string>twosuperior</string>
-		<string>a.alt</string>
+		<string>logicalnot</string>
+		<string>sterling.LT</string>
 		<string>Square_with_Horizontal_Fill</string>
 		<string>VTF2</string>
-		<string>white_large_square</string>
-		<string>threesuperior</string>
-		<string>Utilde</string>
-		<string>Itilde</string>
-		<string>Ycircumflex</string>
-		<string>g.alt2</string>
-		<string>ycircumflex</string>
-		<string>VTF</string>
+		<string>radical</string>
+		<string>Delta</string>
+		<string>f_f</string>
+		<string>florin</string>
+		<string>estimated</string>
+		<string>Omega</string>
+		<string>f_f_i</string>
+		<string>f_f_l</string>
 		<string>onesuperior</string>
+		<string>lozenge</string>
+		<string>white_large_square</string>
+		<string>partialdiff</string>
+		<string>g.alt2</string>
+		<string>pi</string>
+		<string>florin.LT</string>
 		<string>Square_with_Upper_Right_To_Lower_Left_Fill</string>
-		<string>hashed_large_square</string>
-		<string>itilde</string>
-		<string>IJ</string>
+		<string>sterling</string>
+		<string>nbspace</string>
+		<string>threesuperior</string>
+		<string>integral</string>
 		<string>black_large_square</string>
 	</array>
 </dict>

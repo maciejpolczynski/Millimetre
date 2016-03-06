@@ -11,7 +11,7 @@
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>familyName</key>
-	<string>Millimetre Condensed</string>
+	<string>Millimetre</string>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameDesigner</key>
@@ -39,6 +39,10 @@
 	<array>
 		<integer>0</integer>
 	</array>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>3</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
@@ -58,7 +62,7 @@
 	<array>
 	</array>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Condensed Regular</string>
 	<key>trademark</key>
 	<string>Jérémy Landes</string>
 	<key>unitsPerEm</key>

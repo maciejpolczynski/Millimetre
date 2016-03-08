@@ -35,9 +35,9 @@
               <key>name</key>
               <string>top</string>
               <key>x</key>
-              <integer>275</integer>
+              <real>275.0</real>
               <key>y</key>
-              <integer>500</integer>
+              <real>500.0</real>
             </dict>
           </array>
           <key>components</key>

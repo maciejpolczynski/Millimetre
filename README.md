@@ -4,7 +4,7 @@
 
 ##English
 
-Millimetre is a series of fonts constructed on a grid based on the metric system distributed by [Velvetyne Type Foundry](http://velvetyne.fr). It follows the decimal logic of the latter. In this spirit, when you typeset Millimetre, please don’t use the archaic unit of the point but the millimetre, centimetre, decimeter or the meter itself for the really big sizes.
+Millimetre is a series of fonts constructed on a grid based on the metric system distributed by [Velvetyne Type Foundry](http://velvetyne.fr/fonts/millimetre/). It follows the decimal logic of the latter. In this spirit, when you typeset Millimetre, please don’t use the archaic unit of the point but the millimetre, centimetre, decimeter or the meter itself for the really big sizes.
 
 In this typeface, each em-square1 is vertically and horizontally divided in 10 units (decimal, remember?). Printed at a 1 cm size, the strokes of the regular weight will be 1 mm thick. Both white spaces and black stems fit on this grid. Half of the lines and columns of this 10x10 grid receive the stems and the strokes of this font whereas the other half is there to receive the white spaces inside the letters and between them, making millimetre rythm quite unique, totally settled, like a barcode. To make it clearer, when you typeset two m lowercases, the thickness of the stems of the m will be equal to the counters between its legs, to the thins and to the space between the two letters. This grid-based design, aligned to a pixel grid, makes Millimetre works quite well on screen too. When typesetted with a leading equal to its size, the grid appears in the perfect alignment of the stems between the different lines of text. No corrections needed.
 

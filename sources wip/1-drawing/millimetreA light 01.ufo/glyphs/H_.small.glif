@@ -3,22 +3,22 @@
   <advance width="600"/>
   <outline>
     <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="150" y="0" type="line"/>
-      <point x="150" y="500" type="line"/>
-      <point x="50" y="500" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="125" y="500" type="line"/>
+      <point x="75" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="200" type="line"/>
-      <point x="500" y="200" type="line"/>
-      <point x="500" y="300" type="line"/>
-      <point x="100" y="300" type="line"/>
+      <point x="100" y="225" type="line"/>
+      <point x="500" y="225" type="line"/>
+      <point x="500" y="275" type="line"/>
+      <point x="100" y="275" type="line"/>
     </contour>
     <contour>
-      <point x="450" y="0" type="line"/>
-      <point x="550" y="0" type="line"/>
-      <point x="550" y="500" type="line"/>
-      <point x="450" y="500" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="525" y="500" type="line"/>
+      <point x="475" y="500" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -48,6 +48,13 @@
           <integer>600</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

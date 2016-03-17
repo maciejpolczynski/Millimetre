@@ -4,27 +4,27 @@
   <outline>
     <contour>
       <point x="50" y="0" type="line"/>
-      <point x="150" y="0" type="line"/>
-      <point x="150" y="500" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="500" type="line"/>
       <point x="50" y="500" type="line"/>
     </contour>
     <contour>
       <point x="100" y="0" type="line"/>
       <point x="550" y="0" type="line"/>
-      <point x="550" y="100" type="line"/>
-      <point x="100" y="100" type="line"/>
+      <point x="550" y="50" type="line"/>
+      <point x="100" y="50" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="400" type="line"/>
-      <point x="550" y="400" type="line"/>
+      <point x="100" y="450" type="line"/>
+      <point x="550" y="450" type="line"/>
       <point x="550" y="500" type="line"/>
       <point x="100" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="200" type="line"/>
-      <point x="500" y="200" type="line"/>
-      <point x="500" y="300" type="line"/>
-      <point x="100" y="300" type="line"/>
+      <point x="100" y="225" type="line"/>
+      <point x="500" y="225" type="line"/>
+      <point x="500" y="275" type="line"/>
+      <point x="100" y="275" type="line"/>
     </contour>
     <contour>
       <point x="315" y="450" type="move" name="top"/>
@@ -57,6 +57,13 @@
           <integer>600</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -4,39 +4,12 @@
   <unicode hex="00BA"/>
   <outline>
     <contour>
-      <point x="270" y="550" type="curve"/>
-      <point x="270" y="500"/>
-      <point x="250" y="480"/>
-      <point x="200" y="480" type="curve"/>
-      <point x="150" y="480"/>
-      <point x="130" y="500"/>
-      <point x="130" y="550" type="curve"/>
-      <point x="130" y="600"/>
-      <point x="150" y="620"/>
-      <point x="200" y="620" type="curve"/>
-      <point x="250" y="620"/>
-      <point x="270" y="600"/>
-    </contour>
-    <contour>
-      <point x="360" y="550" type="curve"/>
-      <point x="360" y="660"/>
-      <point x="300" y="710"/>
-      <point x="200" y="710" type="curve"/>
-      <point x="100" y="710"/>
-      <point x="40" y="660"/>
-      <point x="40" y="550" type="curve"/>
-      <point x="40" y="440"/>
-      <point x="100" y="390"/>
-      <point x="200" y="390" type="curve"/>
-      <point x="300" y="390"/>
-      <point x="360" y="440"/>
-    </contour>
-    <contour>
       <point x="350" y="200" type="line"/>
       <point x="350" y="300" type="line"/>
       <point x="50" y="300" type="line"/>
       <point x="50" y="200" type="line"/>
     </contour>
+    <component base="o.superior"/>
   </outline>
   <lib>
     <dict>

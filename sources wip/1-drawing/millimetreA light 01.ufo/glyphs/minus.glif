@@ -4,10 +4,10 @@
   <unicode hex="2212"/>
   <outline>
     <contour>
-      <point x="550" y="200" type="line"/>
-      <point x="550" y="300" type="line"/>
-      <point x="50" y="300" type="line"/>
-      <point x="50" y="200" type="line"/>
+      <point x="550" y="225" type="line"/>
+      <point x="550" y="275" type="line"/>
+      <point x="50" y="275" type="line"/>
+      <point x="50" y="225" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -11,15 +11,15 @@
     </contour>
     <contour>
       <point x="200" y="600" type="line"/>
-      <point x="500" y="600" type="line"/>
-      <point x="500" y="700" type="line"/>
+      <point x="525" y="600" type="line"/>
+      <point x="525" y="700" type="line"/>
       <point x="200" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="300" y="400" type="line"/>
-      <point x="500" y="400" type="line"/>
-      <point x="500" y="500" type="line"/>
-      <point x="300" y="500" type="line"/>
+      <point x="300" y="200" type="line"/>
+      <point x="525" y="200" type="line"/>
+      <point x="525" y="300" type="line"/>
+      <point x="300" y="300" type="line"/>
     </contour>
     <contour>
       <point x="250" y="700" type="curve"/>

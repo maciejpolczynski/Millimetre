@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglleft.cap" format="1">
-  <advance width="200"/>
+  <advance width="300"/>
   <outline>
     <component base="guilsinglleft" yOffset="100"/>
   </outline>
@@ -28,7 +28,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>200</integer>
+          <integer>300</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

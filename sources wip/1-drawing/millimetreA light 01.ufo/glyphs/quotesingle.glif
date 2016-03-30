@@ -4,12 +4,12 @@
   <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="50" y="650" type="line"/>
-      <point x="75" y="500" type="line"/>
-      <point x="125" y="500" type="line"/>
-      <point x="150" y="650" type="line"/>
-      <point x="150" y="700" type="line"/>
-      <point x="50" y="700" type="line"/>
+      <point x="75" y="650" type="line"/>
+      <point x="85" y="500" type="line"/>
+      <point x="115" y="500" type="line"/>
+      <point x="125" y="650" type="line"/>
+      <point x="125" y="700" type="line"/>
+      <point x="75" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
                   <key>x</key>
                   <integer>50</integer>
                   <key>y</key>
-                  <integer>600</integer>
+                  <integer>650</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -45,17 +45,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>70</integer>
-                  <key>y</key>
-                  <integer>600</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>70</integer>
+                  <integer>75</integer>
                   <key>y</key>
                   <integer>500</integer>
                 </dict>
@@ -65,7 +55,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>120</integer>
+                  <integer>125</integer>
                   <key>y</key>
                   <integer>500</integer>
                 </dict>

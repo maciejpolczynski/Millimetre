@@ -238,8 +238,12 @@
 	<string>ellipsis.glif</string>
 	<key>emdash</key>
 	<string>emdash.glif</string>
+	<key>emspace</key>
+	<string>emspace.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
+	<key>enspace</key>
+	<string>enspace.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
 	<key>exclam</key>
@@ -276,6 +280,8 @@
 	<string>guillemotright.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
+	<key>hairspace</key>
+	<string>hairspace.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
 	<key>i</key>
@@ -298,6 +304,8 @@
 	<string>k.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
+	<key>largespace</key>
+	<string>largespace.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
 	<key>lslash</key>
@@ -314,6 +322,8 @@
 	<string>nine.LT_.glif</string>
 	<key>nine.sup</key>
 	<string>nine.sup.glif</string>
+	<key>nonbreakingspace</key>
+	<string>nonbreakingspace.glif</string>
 	<key>ntilde</key>
 	<string>ntilde.glif</string>
 	<key>numbersign</key>
@@ -418,6 +428,8 @@
 	<string>space.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
+	<key>thinspace</key>
+	<string>thinspace.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
 	<key>three</key>

@@ -4,28 +4,28 @@
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="200" y="0" type="line"/>
-      <point x="200" y="700" type="line"/>
-      <point x="50" y="700" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="225" y="700" type="line"/>
+      <point x="25" y="700" type="line"/>
     </contour>
     <contour>
       <point x="100" y="0" type="line"/>
-      <point x="550" y="0" type="line"/>
-      <point x="550" y="150" type="line"/>
-      <point x="100" y="150" type="line"/>
+      <point x="575" y="0" type="line"/>
+      <point x="575" y="200" type="line"/>
+      <point x="100" y="200" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="550" type="line"/>
-      <point x="550" y="550" type="line"/>
-      <point x="550" y="700" type="line"/>
+      <point x="100" y="500" type="line"/>
+      <point x="575" y="500" type="line"/>
+      <point x="575" y="700" type="line"/>
       <point x="100" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="300" type="line"/>
-      <point x="500" y="300" type="line"/>
-      <point x="500" y="450" type="line"/>
-      <point x="100" y="450" type="line"/>
+      <point x="100" y="250" type="line"/>
+      <point x="525" y="250" type="line"/>
+      <point x="525" y="425" type="line"/>
+      <point x="100" y="425" type="line"/>
     </contour>
     <contour>
       <point x="315.0" y="650.0" type="move" name="top"/>
@@ -58,6 +58,13 @@
           <integer>600</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4809</real>
+        <real>1.0</real>
+        <real>0.7016</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

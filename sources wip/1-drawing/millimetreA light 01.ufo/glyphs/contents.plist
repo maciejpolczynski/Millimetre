@@ -408,6 +408,8 @@
 	<string>comma.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
+	<key>currency</key>
+	<string>currency.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
 	<key>d.superior</key>
@@ -470,8 +472,12 @@
 	<string>ellipsis.glif</string>
 	<key>emdash</key>
 	<string>emdash.glif</string>
+	<key>emspace</key>
+	<string>emspace.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
+	<key>enspace</key>
+	<string>enspace.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
 	<key>eth</key>
@@ -502,6 +508,8 @@
 	<string>four.inf.glif</string>
 	<key>four.sup</key>
 	<string>four.sup.glif</string>
+	<key>fraction</key>
+	<string>fraction.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>g.alt</key>
@@ -514,6 +522,8 @@
 	<string>grave.glif</string>
 	<key>greater</key>
 	<string>greater.glif</string>
+	<key>greaterequal</key>
+	<string>greaterequal.glif</string>
 	<key>guillemotleft</key>
 	<string>guillemotleft.glif</string>
 	<key>guillemotright</key>
@@ -526,6 +536,8 @@
 	<string>h.glif</string>
 	<key>h.superior</key>
 	<string>h.superior.glif</string>
+	<key>hairspace</key>
+	<string>hairspace.glif</string>
 	<key>hashed</key>
 	<string>hashed.glif</string>
 	<key>hashedlargesquare</key>
@@ -566,12 +578,16 @@
 	<string>l.glif</string>
 	<key>l.superior</key>
 	<string>l.superior.glif</string>
+	<key>largespace</key>
+	<string>largespace.glif</string>
 	<key>leftrightarrow</key>
 	<string>leftrightarrow.glif</string>
 	<key>leftwardsarrow</key>
 	<string>leftwardsarrow.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
+	<key>lessequal</key>
+	<string>lessequal.glif</string>
 	<key>lightshade</key>
 	<string>lightshade.glif</string>
 	<key>lslash</key>
@@ -598,6 +614,8 @@
 	<string>nine.inf.glif</string>
 	<key>nine.sup</key>
 	<string>nine.sup.glif</string>
+	<key>nonbreakingspace</key>
+	<string>nonbreakingspace.glif</string>
 	<key>northeastarrow</key>
 	<string>northeastarrow.glif</string>
 	<key>northwestarrow</key>
@@ -776,6 +794,8 @@
 	<string>t.glif</string>
 	<key>t.superior</key>
 	<string>t.superior.glif</string>
+	<key>thinspace</key>
+	<string>thinspace.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
 	<key>three</key>

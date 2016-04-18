@@ -266,6 +266,7 @@
 				<string>threesuperior</string>
 				<string>twosuperior</string>
 				<string>bullet</string>
+				<string>dotlessj</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>

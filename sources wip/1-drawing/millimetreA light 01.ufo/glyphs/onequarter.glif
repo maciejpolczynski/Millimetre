@@ -1,48 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="1">
-  <advance width="600"/>
+  <advance width="500"/>
   <unicode hex="00BC"/>
   <outline>
     <contour>
       <point x="0" y="0" type="line"/>
-      <point x="110" y="0" type="line"/>
-      <point x="460" y="700" type="line"/>
-      <point x="350" y="700" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="450" y="700" type="line"/>
+      <point x="395" y="700" type="line"/>
     </contour>
-    <contour>
-      <point x="50" y="400" type="line"/>
-      <point x="150" y="400" type="line"/>
-      <point x="150" y="700" type="line"/>
-      <point x="50" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="90" y="700" type="line"/>
-      <point x="20" y="700" type="line"/>
-      <point x="0" y="600" type="line"/>
-      <point x="100" y="600" type="line"/>
-    </contour>
-    <contour>
-      <point x="250" y="0" type="line"/>
-      <point x="550" y="0" type="line"/>
-      <point x="550" y="100" type="line"/>
-      <point x="290" y="100" type="line"/>
-      <point x="250" y="70" type="line"/>
-    </contour>
-    <contour>
-      <point x="330" y="20" type="line"/>
-      <point x="550" y="450" type="line" smooth="yes"/>
-      <point x="440" y="450" type="line"/>
-      <point x="250" y="70" type="line"/>
-    </contour>
-    <contour>
-      <point x="550" y="-50" type="line"/>
-      <point x="550" y="200" type="line"/>
-      <point x="500" y="200" type="line"/>
-      <point x="500" y="170"/>
-      <point x="480" y="150"/>
-      <point x="450" y="150" type="curve"/>
-      <point x="450" y="-50" type="line"/>
-    </contour>
+    <component base="one.sup"/>
+    <component base="four.sup" xOffset="100" yOffset="-400"/>
   </outline>
   <lib>
     <dict>
@@ -638,7 +606,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>600</integer>
+          <integer>500</integer>
         </dict>
       </dict>
     </dict>

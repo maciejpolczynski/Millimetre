@@ -598,6 +598,12 @@
 				<string>pistol</string>
 				<string>blackscissors</string>
 				<string>VTF</string>
+				<string>mu</string>
+				<string>logicalnot</string>
+				<string>onesuperior</string>
+				<string>twosuperior</string>
+				<string>sterling</string>
+				<string>threesuperior</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>

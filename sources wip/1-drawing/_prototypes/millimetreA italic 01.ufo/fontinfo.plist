@@ -12,6 +12,8 @@
 	<integer>-200</integer>
 	<key>familyName</key>
 	<string>Millimetre</string>
+	<key>italicAngle</key>
+	<integer>0</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameDesigner</key>

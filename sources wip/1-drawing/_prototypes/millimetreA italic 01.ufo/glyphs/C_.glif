@@ -56,25 +56,25 @@
               <key>name</key>
               <string>top</string>
               <key>x</key>
-              <integer>300</integer>
+              <real>300.0</real>
               <key>y</key>
-              <integer>650</integer>
+              <real>650.0</real>
             </dict>
             <dict>
               <key>name</key>
               <string>top</string>
               <key>x</key>
-              <integer>300</integer>
+              <real>300.0</real>
               <key>y</key>
-              <integer>500</integer>
+              <real>500.0</real>
             </dict>
             <dict>
               <key>name</key>
               <string>top</string>
               <key>x</key>
-              <integer>419</integer>
+              <real>419.0</real>
               <key>y</key>
-              <integer>500</integer>
+              <real>500.0</real>
             </dict>
           </array>
           <key>components</key>

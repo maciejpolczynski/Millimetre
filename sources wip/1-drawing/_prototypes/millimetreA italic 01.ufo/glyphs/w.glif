@@ -61,17 +61,17 @@
               <key>name</key>
               <string>top</string>
               <key>x</key>
-              <integer>250</integer>
+              <real>250.0</real>
               <key>y</key>
-              <integer>650</integer>
+              <real>650.0</real>
             </dict>
             <dict>
               <key>name</key>
               <string>top</string>
               <key>x</key>
-              <integer>650</integer>
+              <real>650.0</real>
               <key>y</key>
-              <integer>650</integer>
+              <real>650.0</real>
             </dict>
           </array>
           <key>components</key>

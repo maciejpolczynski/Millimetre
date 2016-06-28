@@ -66,9 +66,9 @@
               <key>name</key>
               <string>top</string>
               <key>x</key>
-              <integer>650</integer>
+              <real>650.0</real>
               <key>y</key>
-              <integer>650</integer>
+              <real>650.0</real>
             </dict>
           </array>
           <key>components</key>

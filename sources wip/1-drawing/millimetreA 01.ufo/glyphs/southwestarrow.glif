@@ -3,35 +3,7 @@
   <advance width="800"/>
   <unicode hex="2199"/>
   <outline>
-    <contour>
-      <point x="655" y="675" type="line"/>
-      <point x="295" y="310" type="line"/>
-      <point x="90" y="90" type="line"/>
-      <point x="140" y="40" type="line"/>
-      <point x="365" y="245" type="line"/>
-      <point x="725" y="605" type="line"/>
-    </contour>
-    <contour>
-      <point x="70" y="0" type="line"/>
-      <point x="605" y="0" type="line"/>
-      <point x="690" y="90" type="line"/>
-      <point x="680" y="100" type="line"/>
-      <point x="285" y="95" type="line"/>
-      <point x="170" y="85" type="line"/>
-      <point x="145" y="90" type="line"/>
-      <point x="50" y="20" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="20" type="line"/>
-      <point x="70" y="0" type="line"/>
-      <point x="155" y="80" type="line"/>
-      <point x="140" y="95" type="line"/>
-      <point x="135" y="120" type="line"/>
-      <point x="145" y="235" type="line"/>
-      <point x="150" y="630" type="line"/>
-      <point x="140" y="640" type="line"/>
-      <point x="50" y="555" type="line"/>
-    </contour>
+    <component base="northwestarrow" xScale="-1.1796119636642288e-16" xyScale="0.9999999999999998" yxScale="-0.9999999999999998" yScale="-1.1796119636642288e-16" xOffset="750" yOffset="-50"/>
   </outline>
   <lib>
     <dict>
@@ -305,6 +277,13 @@
           <integer>800</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8157</real>
+        <real>0.8157</real>
+        <real>0.8157</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

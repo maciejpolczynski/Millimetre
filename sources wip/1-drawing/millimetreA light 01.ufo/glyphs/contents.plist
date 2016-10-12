@@ -518,6 +518,8 @@
 	<string>eight.glif</string>
 	<key>eight.LT</key>
 	<string>eight.LT_.glif</string>
+	<key>eight.dnom</key>
+	<string>eight.dnom.glif</string>
 	<key>eight.inf</key>
 	<string>eight.inf.glif</string>
 	<key>eight.sup</key>
@@ -550,6 +552,8 @@
 	<string>five.glif</string>
 	<key>five.LT</key>
 	<string>five.LT_.glif</string>
+	<key>five.dnom</key>
+	<string>five.dnom.glif</string>
 	<key>five.inf</key>
 	<string>five.inf.glif</string>
 	<key>five.sup</key>
@@ -558,6 +562,8 @@
 	<string>four.glif</string>
 	<key>four.LT</key>
 	<string>four.LT_.glif</string>
+	<key>four.dnom</key>
+	<string>four.dnom.glif</string>
 	<key>four.inf</key>
 	<string>four.inf.glif</string>
 	<key>four.sup</key>
@@ -664,6 +670,8 @@
 	<string>nine.glif</string>
 	<key>nine.LT</key>
 	<string>nine.LT_.glif</string>
+	<key>nine.dnom</key>
+	<string>nine.dnom.glif</string>
 	<key>nine.inf</key>
 	<string>nine.inf.glif</string>
 	<key>nine.sup</key>
@@ -700,6 +708,8 @@
 	<string>one.glif</string>
 	<key>one.LT</key>
 	<string>one.LT_.glif</string>
+	<key>one.dnom</key>
+	<string>one.dnom.glif</string>
 	<key>one.inf</key>
 	<string>one.inf.glif</string>
 	<key>one.sup</key>
@@ -790,6 +800,8 @@
 	<string>seven.glif</string>
 	<key>seven.LT</key>
 	<string>seven.LT_.glif</string>
+	<key>seven.dnom</key>
+	<string>seven.dnom.glif</string>
 	<key>seven.inf</key>
 	<string>seven.inf.glif</string>
 	<key>seven.sup</key>
@@ -798,6 +810,8 @@
 	<string>six.glif</string>
 	<key>six.LT</key>
 	<string>six.LT_.glif</string>
+	<key>six.dnom</key>
+	<string>six.dnom.glif</string>
 	<key>six.inf</key>
 	<string>six.inf.glif</string>
 	<key>six.sup</key>
@@ -856,6 +870,8 @@
 	<string>three.glif</string>
 	<key>three.LT</key>
 	<string>three.LT_.glif</string>
+	<key>three.dnom</key>
+	<string>three.dnom.glif</string>
 	<key>three.inf</key>
 	<string>three.inf.glif</string>
 	<key>three.sup</key>
@@ -872,6 +888,8 @@
 	<string>two.glif</string>
 	<key>two.LT</key>
 	<string>two.LT_.glif</string>
+	<key>two.dnom</key>
+	<string>two.dnom.glif</string>
 	<key>two.inf</key>
 	<string>two.inf.glif</string>
 	<key>two.sup</key>
@@ -1020,6 +1038,8 @@
 	<string>zero.glif</string>
 	<key>zero.LT</key>
 	<string>zero.LT_.glif</string>
+	<key>zero.dnom</key>
+	<string>zero.dnom.glif</string>
 	<key>zero.inf</key>
 	<string>zero.inf.glif</string>
 	<key>zero.sup</key>

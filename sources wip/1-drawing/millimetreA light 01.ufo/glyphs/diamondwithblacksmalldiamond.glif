@@ -4,22 +4,22 @@
   <unicode hex="25C8"/>
   <outline>
     <contour>
-      <point x="500" y="-105" type="line"/>
-      <point x="145" y="250" type="line"/>
-      <point x="500" y="605" type="line"/>
-      <point x="855" y="250" type="line"/>
+      <point x="500" y="55" type="line"/>
+      <point x="700" y="250" type="line"/>
+      <point x="500" y="450" type="line"/>
+      <point x="305" y="250" type="line"/>
     </contour>
-    <contour>
-      <point x="500" y="-245" type="line"/>
-      <point x="995" y="250" type="line"/>
-      <point x="500" y="745" type="line"/>
-      <point x="5" y="250" type="line"/>
-    </contour>
-    <contour>
-      <point x="500" y="3" type="line"/>
-      <point x="748" y="250" type="line"/>
-      <point x="500" y="498" type="line"/>
-      <point x="253" y="250" type="line"/>
-    </contour>
+    <component base="whitediamond"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

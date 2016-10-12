@@ -25,6 +25,8 @@
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
 	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
+	<true/>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
@@ -64,6 +66,14 @@
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
 		<string>background</string>
+		<string>regular</string>
+	</array>
+	<key>com.typemytype.robofont.regular.layerStrokeColor</key>
+	<array>
+		<real>0.5</real>
+		<real>1.0</real>
+		<real>0.0</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
@@ -598,13 +608,6 @@
 				<string>pistol</string>
 				<string>blackscissors</string>
 				<string>VTF</string>
-				<string>fi</string>
-				<string>fl</string>
-				<string>LIG</string>
-				<string>f_f</string>
-				<string>f_f_l</string>
-				<string>nbspace</string>
-				<string>f_f_i</string>
 				<string>uniFB4A</string>
 				<string>uniFB4B</string>
 				<string>afii57664</string>
@@ -621,8 +624,14 @@
 				<string>uniFB44</string>
 				<string>uniFB47</string>
 				<string>uniFB46</string>
+				<string>fi</string>
+				<string>fl</string>
+				<string>LIG</string>
 				<string>afii57689</string>
 				<string>afii57683</string>
+				<string>f_f</string>
+				<string>f_f_l</string>
+				<string>ב</string>
 				<string>uniFB49</string>
 				<string>afii57690</string>
 				<string>uniFB2C</string>
@@ -631,6 +640,8 @@
 				<string>uniFB2F</string>
 				<string>uniFB2E</string>
 				<string>uniFB2D</string>
+				<string>א</string>
+				<string>nbspace</string>
 				<string>uniFB35</string>
 				<string>uniFB36</string>
 				<string>uniFB39</string>
@@ -644,6 +655,8 @@
 				<string>afii57672</string>
 				<string>afii57671</string>
 				<string>afii57670</string>
+				<string>ג</string>
+				<string>f_f_i</string>
 				<string>afii57688</string>
 				<string>afii57686</string>
 				<string>afii57687</string>
@@ -651,6 +664,7 @@
 				<string>afii57685</string>
 				<string>afii57682</string>
 				<string>afii57680</string>
+				<string>‗</string>
 				<string>uniFB30</string>
 				<string>uniFB31</string>
 				<string>uniFB32</string>
@@ -1194,13 +1208,6 @@
 		<string>pistol</string>
 		<string>blackscissors</string>
 		<string>VTF</string>
-		<string>fi</string>
-		<string>fl</string>
-		<string>LIG</string>
-		<string>f_f</string>
-		<string>f_f_l</string>
-		<string>nbspace</string>
-		<string>f_f_i</string>
 		<string>uniFB4A</string>
 		<string>uniFB4B</string>
 		<string>afii57664</string>
@@ -1217,8 +1224,14 @@
 		<string>uniFB44</string>
 		<string>uniFB47</string>
 		<string>uniFB46</string>
+		<string>fi</string>
+		<string>fl</string>
+		<string>LIG</string>
 		<string>afii57689</string>
 		<string>afii57683</string>
+		<string>f_f</string>
+		<string>f_f_l</string>
+		<string>ב</string>
 		<string>uniFB49</string>
 		<string>afii57690</string>
 		<string>uniFB2C</string>
@@ -1227,6 +1240,8 @@
 		<string>uniFB2F</string>
 		<string>uniFB2E</string>
 		<string>uniFB2D</string>
+		<string>א</string>
+		<string>nbspace</string>
 		<string>uniFB35</string>
 		<string>uniFB36</string>
 		<string>uniFB39</string>
@@ -1240,6 +1255,8 @@
 		<string>afii57672</string>
 		<string>afii57671</string>
 		<string>afii57670</string>
+		<string>ג</string>
+		<string>f_f_i</string>
 		<string>afii57688</string>
 		<string>afii57686</string>
 		<string>afii57687</string>
@@ -1247,6 +1264,7 @@
 		<string>afii57685</string>
 		<string>afii57682</string>
 		<string>afii57680</string>
+		<string>‗</string>
 		<string>uniFB30</string>
 		<string>uniFB31</string>
 		<string>uniFB32</string>

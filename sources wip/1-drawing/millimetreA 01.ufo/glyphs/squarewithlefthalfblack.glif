@@ -4,45 +4,11 @@
   <unicode hex="25E7"/>
   <outline>
     <contour>
-      <point x="500" y="-100" type="line"/>
-      <point x="500" y="600" type="line"/>
-      <point x="850" y="600" type="line"/>
-      <point x="850" y="-100" type="line"/>
+      <point x="70" y="-180" type="line"/>
+      <point x="500" y="-180" type="line"/>
+      <point x="500" y="675" type="line"/>
+      <point x="70" y="675" type="line"/>
     </contour>
-    <contour>
-      <point x="50" y="-200" type="line"/>
-      <point x="950" y="-200" type="line"/>
-      <point x="950" y="700" type="line"/>
-      <point x="50" y="700" type="line"/>
-    </contour>
+    <component base="whitelargesquare"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>squarewithlefthalfblack</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1000</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

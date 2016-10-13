@@ -770,6 +770,8 @@
 	<string>rightwardsarrow.glif</string>
 	<key>ring</key>
 	<string>ring.glif</string>
+	<key>roundeddot</key>
+	<string>roundeddot.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>s.superior</key>

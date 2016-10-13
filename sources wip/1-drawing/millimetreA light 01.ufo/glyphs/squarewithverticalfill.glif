@@ -10,16 +10,16 @@
       <point x="475" y="-150" type="line"/>
     </contour>
     <contour>
-      <point x="325" y="-150" type="line"/>
-      <point x="325" y="650" type="line"/>
-      <point x="275" y="650" type="line"/>
-      <point x="275" y="-150" type="line"/>
+      <point x="315" y="-150" type="line"/>
+      <point x="315" y="650" type="line"/>
+      <point x="265" y="650" type="line"/>
+      <point x="265" y="-150" type="line"/>
     </contour>
     <contour>
-      <point x="725" y="-150" type="line"/>
-      <point x="725" y="650" type="line"/>
-      <point x="675" y="650" type="line"/>
-      <point x="675" y="-150" type="line"/>
+      <point x="735" y="-150" type="line"/>
+      <point x="735" y="650" type="line"/>
+      <point x="685" y="650" type="line"/>
+      <point x="685" y="-150" type="line"/>
     </contour>
     <component base="whitelargesquare"/>
   </outline>

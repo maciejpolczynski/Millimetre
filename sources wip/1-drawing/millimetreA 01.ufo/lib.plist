@@ -64,6 +64,14 @@
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
 		<string>background</string>
+		<string>regular</string>
+	</array>
+	<key>com.typemytype.robofont.regular.layerStrokeColor</key>
+	<array>
+		<real>1.0</real>
+		<real>0.75</real>
+		<real>0.0</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
@@ -1133,6 +1141,7 @@
 		<string>blackscissors</string>
 		<string>VTF</string>
 		<string>numero</string>
+		<string>roundeddot</string>
 	</array>
 </dict>
 </plist>

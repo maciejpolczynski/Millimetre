@@ -675,6 +675,7 @@
 				<string>uniFB3B</string>
 				<string>uniFB3C</string>
 				<string>uniFB3E</string>
+				<string>roundeddot</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1275,6 +1276,7 @@
 		<string>uniFB3B</string>
 		<string>uniFB3C</string>
 		<string>uniFB3E</string>
+		<string>roundeddot</string>
 	</array>
 </dict>
 </plist>

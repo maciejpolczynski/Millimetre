@@ -5,31 +5,31 @@
   <outline>
     <contour>
       <point x="280" y="350" type="curve"/>
-      <point x="280.0" y="295.0"/>
-      <point x="261.538461538" y="270.0"/>
+      <point x="280" y="295"/>
+      <point x="262" y="270"/>
       <point x="200" y="270" type="curve"/>
-      <point x="144.615384615" y="270.0"/>
-      <point x="120.0" y="295.0"/>
+      <point x="145" y="270"/>
+      <point x="120" y="295"/>
       <point x="120" y="350" type="curve"/>
-      <point x="120.0" y="410.0"/>
-      <point x="144.615384615" y="430.0"/>
+      <point x="120" y="410"/>
+      <point x="145" y="430"/>
       <point x="200" y="430" type="curve"/>
-      <point x="261.538461538" y="430.0"/>
-      <point x="280.0" y="410.0"/>
+      <point x="262" y="430"/>
+      <point x="280" y="410"/>
     </contour>
     <contour>
       <point x="325" y="350" type="curve"/>
-      <point x="325.0" y="440.0"/>
-      <point x="279.166666667" y="475.0"/>
+      <point x="325" y="440"/>
+      <point x="279" y="475"/>
       <point x="200" y="475" type="curve"/>
-      <point x="120.833333333" y="475.0"/>
-      <point x="75.0" y="440.0"/>
+      <point x="121" y="475"/>
+      <point x="75" y="440"/>
       <point x="75" y="350" type="curve"/>
-      <point x="75.0" y="265.0"/>
-      <point x="120.833333333" y="225.0"/>
+      <point x="75" y="265"/>
+      <point x="121" y="225"/>
       <point x="200" y="225" type="curve"/>
-      <point x="279.166666667" y="225.0"/>
-      <point x="325.0" y="265.0"/>
+      <point x="279" y="225"/>
+      <point x="325" y="265"/>
     </contour>
     <contour>
       <point x="105" y="290" type="line"/>
@@ -58,6 +58,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 23:44:55 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -483,10 +485,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

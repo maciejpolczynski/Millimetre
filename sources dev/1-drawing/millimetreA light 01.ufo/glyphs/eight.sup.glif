@@ -32,8 +32,8 @@
     </contour>
     <contour>
       <point x="130" y="545" type="line"/>
-      <point x="104.153781765" y="536.384593922"/>
-      <point x="75.0" y="510.0"/>
+      <point x="104" y="536"/>
+      <point x="75" y="510"/>
       <point x="75" y="475" type="curve"/>
       <point x="75" y="415"/>
       <point x="115" y="390"/>
@@ -41,12 +41,12 @@
       <point x="285" y="390"/>
       <point x="325" y="415"/>
       <point x="325" y="475" type="curve"/>
-      <point x="325.0" y="510.0"/>
-      <point x="299.73263503" y="540.75248071"/>
+      <point x="325" y="510"/>
+      <point x="300" y="541"/>
       <point x="270" y="545" type="curve"/>
       <point x="270" y="555" type="line"/>
-      <point x="299.73263503" y="559.24751929"/>
-      <point x="325.0" y="590.0"/>
+      <point x="300" y="559"/>
+      <point x="325" y="590"/>
       <point x="325" y="625" type="curve"/>
       <point x="325" y="685"/>
       <point x="285" y="710"/>
@@ -54,13 +54,15 @@
       <point x="115" y="710"/>
       <point x="75" y="685"/>
       <point x="75" y="625" type="curve"/>
-      <point x="75.0" y="590.0"/>
-      <point x="104.153781765" y="563.615406078"/>
+      <point x="75" y="590"/>
+      <point x="104" y="564"/>
       <point x="130" y="555" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 23:44:55 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>

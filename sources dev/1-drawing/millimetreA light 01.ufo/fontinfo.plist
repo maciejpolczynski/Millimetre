@@ -12,6 +12,8 @@
 	<integer>-200</integer>
 	<key>familyName</key>
 	<string>Millimetre</string>
+	<key>openTypeHeadCreated</key>
+	<string>2018/04/06 01:44:55</string>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameDesigner</key>
@@ -20,6 +22,10 @@
 	<string>http://jjllnn.fr</string>
 	<key>openTypeNameLicense</key>
 	<string>SIL OFL 2.0</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Millimetre</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Light</string>
 	<key>openTypeOS2Panose</key>
 	<array>
 		<integer>2</integer>
@@ -46,27 +52,25 @@
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
-	</array>
+	<key>postscriptFontName</key>
+	<string>Millimetre-Light</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
-	<key>postscriptStemSnapH</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-	</array>
+	<key>styleMapFamilyName</key>
+	<string>Millimetre Light</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
 	<string>Light</string>
 	<key>trademark</key>
 	<string>Jérémy Landes</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
 	<key>xHeight</key>
 	<integer>500</integer>
 </dict>

@@ -23,11 +23,11 @@
       <point x="195" y="60" type="curve"/>
       <point x="190" y="0" type="line"/>
       <point x="210" y="0" type="line"/>
-      <point x="248.52304242" y="62.5999439333"/>
-      <point x="285.734589093" y="118.428082436"/>
+      <point x="249" y="63"/>
+      <point x="286" y="118"/>
       <point x="300" y="185" type="curve"/>
-      <point x="314.265410907" y="118.428082436"/>
-      <point x="351.47695758" y="62.5999439333"/>
+      <point x="314" y="118"/>
+      <point x="351" y="63"/>
       <point x="390" y="0" type="curve"/>
       <point x="410" y="0" type="line"/>
       <point x="405" y="60" type="line"/>
@@ -51,6 +51,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 23:44:55 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -451,10 +453,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

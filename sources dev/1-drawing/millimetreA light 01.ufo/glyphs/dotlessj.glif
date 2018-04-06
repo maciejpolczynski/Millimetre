@@ -10,19 +10,21 @@
       <point x="125" y="500" type="line"/>
       <point x="75" y="500" type="line"/>
       <point x="75" y="-50" type="line" smooth="yes"/>
-      <point x="75" y="-130.0"/>
-      <point x="55.0" y="-150.0"/>
+      <point x="75" y="-130"/>
+      <point x="55" y="-150"/>
       <point x="0" y="-150" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 23:44:55 +0000</string>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

@@ -11,31 +11,31 @@
     </contour>
     <contour>
       <point x="470" y="385" type="curve"/>
-      <point x="470.0" y="343.0"/>
-      <point x="455.0" y="325.0"/>
+      <point x="470" y="343"/>
+      <point x="455" y="325"/>
       <point x="395" y="325" type="curve"/>
       <point x="320" y="325" type="line"/>
       <point x="310" y="275" type="line"/>
       <point x="385" y="275" type="line"/>
-      <point x="435.0" y="275.0"/>
-      <point x="468.728955657" y="256.439399083"/>
+      <point x="435" y="275"/>
+      <point x="469" y="256"/>
       <point x="475" y="200" type="curve"/>
       <point x="525" y="200" type="line"/>
-      <point x="525.0" y="250.0"/>
+      <point x="525" y="250"/>
       <point x="505" y="285"/>
       <point x="460" y="290" type="curve"/>
       <point x="460" y="300" type="line"/>
-      <point x="497.495446347" y="309.373861587"/>
+      <point x="497" y="309"/>
       <point x="530" y="345"/>
       <point x="530" y="395" type="curve"/>
-      <point x="530.0" y="463.47826087"/>
-      <point x="488.064516129" y="500.0"/>
+      <point x="530" y="463"/>
+      <point x="488" y="500"/>
       <point x="400" y="500" type="curve"/>
       <point x="310" y="500" type="line"/>
       <point x="310" y="450" type="line"/>
       <point x="395" y="450" type="line"/>
-      <point x="455.0" y="450.0"/>
-      <point x="470.0" y="432.666666667"/>
+      <point x="455" y="450"/>
+      <point x="470" y="433"/>
     </contour>
     <contour>
       <point x="430" y="700" type="curve" smooth="yes"/>
@@ -90,11 +90,13 @@
       <point x="165" y="0"/>
     </contour>
     <contour>
-      <point x="300.0" y="650.0" type="move" name="top"/>
+      <point x="300" y="650" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 23:44:55 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -408,10 +410,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>1</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

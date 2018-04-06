@@ -57,11 +57,13 @@
       <point x="480" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="300.0" y="650.0" type="move" name="top"/>
+      <point x="300" y="650" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 23:44:55 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -72,9 +74,9 @@
               <key>name</key>
               <string>top</string>
               <key>x</key>
-              <real>300.0</real>
+              <integer>300</integer>
               <key>y</key>
-              <real>650.0</real>
+              <integer>650</integer>
             </dict>
           </array>
           <key>components</key>
@@ -553,10 +555,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>1</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

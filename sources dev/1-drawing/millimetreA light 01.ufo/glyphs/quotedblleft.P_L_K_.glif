@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft.PLK" format="1">
+  <advance width="400"/>
+  <outline>
+    <component base="quoteright" yOffset="-700"/>
+    <component base="quoteright" xOffset="200" yOffset="-700"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 23:55:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

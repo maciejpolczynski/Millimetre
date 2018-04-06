@@ -18,12 +18,12 @@
     </contour>
     <contour>
       <point x="325" y="275" type="line"/>
-      <point x="325.0" y="431.049382716"/>
+      <point x="325" y="431"/>
       <point x="370" y="515"/>
       <point x="555" y="670" type="curve"/>
       <point x="510" y="685" type="line"/>
-      <point x="335.194388285" y="551.325120454"/>
-      <point x="280.000185282" y="450.006484886"/>
+      <point x="335" y="551"/>
+      <point x="280" y="450"/>
       <point x="275" y="275" type="curve"/>
     </contour>
     <contour>
@@ -35,6 +35,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 23:44:55 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -284,10 +286,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

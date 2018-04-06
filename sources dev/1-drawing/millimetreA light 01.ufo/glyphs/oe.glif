@@ -20,11 +20,11 @@
       <point x="70" y="60"/>
       <point x="120" y="-10"/>
       <point x="300" y="-10" type="curve"/>
-      <point x="410.0" y="-10.0"/>
+      <point x="410" y="-10"/>
       <point x="470" y="10"/>
       <point x="500" y="90" type="curve"/>
       <point x="530" y="10"/>
-      <point x="590.0" y="-10.0"/>
+      <point x="590" y="-10"/>
       <point x="705" y="-10" type="curve"/>
       <point x="875" y="-10"/>
       <point x="930" y="40"/>
@@ -44,11 +44,11 @@
       <point x="930" y="440"/>
       <point x="880" y="510"/>
       <point x="705" y="510" type="curve"/>
-      <point x="590.0" y="510.0"/>
+      <point x="590" y="510"/>
       <point x="530" y="485"/>
       <point x="500" y="410" type="curve"/>
       <point x="470" y="485"/>
-      <point x="410.0" y="510.0"/>
+      <point x="410" y="510"/>
       <point x="300" y="510" type="curve"/>
       <point x="120" y="510"/>
       <point x="70" y="435"/>
@@ -70,14 +70,13 @@
       <point x="120" y="95"/>
     </contour>
     <contour>
-      <point x="300.0" y="500.0" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="700.0" y="500.0" type="move" name="top"/>
+      <point x="700" y="500" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 23:44:55 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -88,17 +87,17 @@
               <key>name</key>
               <string>top</string>
               <key>x</key>
-              <real>300.0</real>
+              <integer>300</integer>
               <key>y</key>
-              <real>500.0</real>
+              <integer>500</integer>
             </dict>
             <dict>
               <key>name</key>
               <string>top</string>
               <key>x</key>
-              <real>710.0</real>
+              <integer>710</integer>
               <key>y</key>
-              <real>500.0</real>
+              <integer>500</integer>
             </dict>
           </array>
           <key>components</key>
@@ -123,9 +122,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>450.69444444444446</real>
+                  <real>450.694</real>
                   <key>y</key>
-                  <real>460.0</real>
+                  <integer>460</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -133,7 +132,7 @@
                   <key>x</key>
                   <integer>475</integer>
                   <key>y</key>
-                  <real>405.0</real>
+                  <integer>405</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -179,17 +178,17 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>525.0</real>
+                  <integer>525</integer>
                   <key>y</key>
-                  <real>435.0</real>
+                  <integer>435</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>476.0869565217391</real>
+                  <real>476.087</real>
                   <key>y</key>
-                  <real>510.0</real>
+                  <integer>510</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -374,17 +373,17 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>476.0869565217391</real>
+                  <real>476.087</real>
                   <key>y</key>
-                  <real>-10.0</real>
+                  <integer>-10</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>525.0</real>
+                  <integer>525</integer>
                   <key>y</key>
-                  <real>60.0</real>
+                  <integer>60</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -432,15 +431,15 @@
                   <key>x</key>
                   <integer>475</integer>
                   <key>y</key>
-                  <real>95.0</real>
+                  <integer>95</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>450.69444444444446</real>
+                  <real>450.694</real>
                   <key>y</key>
-                  <real>40.0</real>
+                  <integer>40</integer>
                 </dict>
               </array>
             </dict>
@@ -840,9 +839,9 @@
                     <key>name</key>
                     <string>top</string>
                     <key>x</key>
-                    <real>1050.0</real>
+                    <integer>1050</integer>
                     <key>y</key>
-                    <real>500.0</real>
+                    <integer>500</integer>
                   </dict>
                 </array>
                 <key>components</key>
@@ -1258,10 +1257,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

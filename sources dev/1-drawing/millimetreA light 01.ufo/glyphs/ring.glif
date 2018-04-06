@@ -5,31 +5,31 @@
   <outline>
     <contour>
       <point x="290" y="660" type="curve" smooth="yes"/>
-      <point x="290.0" y="629.444444444"/>
-      <point x="270.0" y="605.0"/>
+      <point x="290" y="629"/>
+      <point x="270" y="605"/>
       <point x="200" y="605" type="curve"/>
-      <point x="130.0" y="605.0"/>
-      <point x="110.0" y="629.444444444"/>
+      <point x="130" y="605"/>
+      <point x="110" y="629"/>
       <point x="110" y="660" type="curve" smooth="yes"/>
-      <point x="110.0" y="690.555555556"/>
-      <point x="130.0" y="715.0"/>
+      <point x="110" y="691"/>
+      <point x="130" y="715"/>
       <point x="200" y="715" type="curve"/>
-      <point x="270.0" y="715.0"/>
-      <point x="290.0" y="690.555555556"/>
+      <point x="270" y="715"/>
+      <point x="290" y="691"/>
     </contour>
     <contour>
       <point x="335" y="660" type="curve" smooth="yes"/>
-      <point x="335.0" y="720.454545455"/>
-      <point x="295.0" y="755.0"/>
+      <point x="335" y="720"/>
+      <point x="295" y="755"/>
       <point x="200" y="755" type="curve"/>
-      <point x="105.0" y="755.0"/>
-      <point x="65.0" y="720.454545455"/>
+      <point x="105" y="755"/>
+      <point x="65" y="720"/>
       <point x="65" y="660" type="curve" smooth="yes"/>
-      <point x="65.0" y="599.545454545"/>
-      <point x="105.0" y="565.0"/>
+      <point x="65" y="600"/>
+      <point x="105" y="565"/>
       <point x="200" y="565" type="curve"/>
-      <point x="295.0" y="565.0"/>
-      <point x="335.0" y="599.545454545"/>
+      <point x="295" y="565"/>
+      <point x="335" y="600"/>
     </contour>
     <contour>
       <point x="200" y="500" type="move" name="_top"/>
@@ -37,6 +37,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 23:44:55 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -282,10 +284,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

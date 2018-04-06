@@ -3,7 +3,6 @@
   <advance width="400"/>
   <outline>
     <contour>
-      <point x="280" y="450" type="move"/>
       <point x="290" y="450" type="line"/>
       <point x="300" y="400" type="line"/>
       <point x="335" y="400" type="line"/>
@@ -16,36 +15,38 @@
     <contour>
       <point x="70" y="560" type="curve" smooth="yes"/>
       <point x="70" y="540" type="line"/>
-      <point x="70.0" y="440.0"/>
-      <point x="102.857142857" y="390.0"/>
+      <point x="70" y="440"/>
+      <point x="103" y="390"/>
       <point x="185" y="390" type="curve"/>
-      <point x="234.761904762" y="390.0"/>
-      <point x="271.384353093" y="415.537412373"/>
+      <point x="235" y="390"/>
+      <point x="271" y="416"/>
       <point x="280" y="450" type="curve"/>
       <point x="280" y="535" type="line"/>
-      <point x="280.0" y="465.909090909"/>
-      <point x="255.0" y="440.0"/>
+      <point x="280" y="466"/>
+      <point x="255" y="440"/>
       <point x="200" y="440" type="curve" smooth="yes"/>
-      <point x="150.0" y="440.0"/>
+      <point x="150" y="440"/>
       <point x="125" y="465"/>
       <point x="125" y="535" type="curve" smooth="yes"/>
       <point x="125" y="565" type="line"/>
       <point x="125" y="635"/>
-      <point x="150.0" y="660.0"/>
+      <point x="150" y="660"/>
       <point x="200" y="660" type="curve" smooth="yes"/>
-      <point x="255.0" y="660.0"/>
-      <point x="280.0" y="634.090909091"/>
+      <point x="255" y="660"/>
+      <point x="280" y="634"/>
       <point x="280" y="565" type="curve"/>
       <point x="280" y="650" type="line"/>
-      <point x="271.384353093" y="684.462587627"/>
-      <point x="234.761904762" y="710.0"/>
+      <point x="271" y="684"/>
+      <point x="235" y="710"/>
       <point x="185" y="710" type="curve"/>
-      <point x="102.857142857" y="710.0"/>
-      <point x="70" y="660.0"/>
+      <point x="103" y="710"/>
+      <point x="70" y="660"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 23:54:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -421,10 +422,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>1</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>
